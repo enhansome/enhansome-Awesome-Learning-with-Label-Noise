@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
             "stars": 38531
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-27T03:22:16Z",
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29491
+            "stars": 29497
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2023-05-22T22:46:04Z",
             "owner": "shengliu66",
             "repo": "ELR",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -2465,7 +2465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:29:46.046Z",
+    "last_updated": "2026-08-14T23:10:41.531Z",
     "original_repository": "subeeshvasu/Awesome-Learning-with-Label-Noise",
     "original_repository_sha": "2a9e6cc6f8d649cb3c92f9a4c72b00c322731f08",
     "enhanced_repository": "enhansome/enhansome-Awesome-Learning-with-Label-Noise",
