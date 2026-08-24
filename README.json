@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38607
+            "stars": 38611
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T03:22:16Z",
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29561
+            "stars": 29563
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15163
+            "stars": 15166
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-02-09T07:09:29Z",
             "owner": "AlfredXiangWu",
             "repo": "LightCNN",
-            "stars": 961
+            "stars": 960
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2021-08-19T13:18:14Z",
             "owner": "bhanML",
             "repo": "Co-teaching",
-            "stars": 522
+            "stars": 521
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2023-03-25T00:03:02Z",
             "owner": "google",
             "repo": "mentornet",
-            "stars": 327
+            "stars": 326
           }
         },
         {
@@ -815,21 +815,6 @@
         },
         {
           "node_type": "item",
-          "title": "2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [Paper]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 346998000,
-            "language": "Python",
-            "last_commit": "2021-06-15T15:33:51Z",
-            "owner": "xiaoboxia",
-            "repo": "CDR",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
           "title": "2021-CVPR - Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation. [Paper]",
           "description": "[Code]",
           "children": [],
@@ -840,6 +825,21 @@
             "last_commit": "2025-01-02T04:42:07Z",
             "owner": "cvlab-yonsei",
             "repo": "BANA",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346998000,
+            "language": "Python",
+            "last_commit": "2021-06-15T15:33:51Z",
+            "owner": "xiaoboxia",
+            "repo": "CDR",
             "stars": 77
           }
         },
@@ -2615,7 +2615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:09:54.021Z",
+    "last_updated": "2026-08-24T14:00:54.972Z",
     "original_repository": "subeeshvasu/Awesome-Learning-with-Label-Noise",
     "original_repository_id": 197372529,
     "original_repository_sha": "2a9e6cc6f8d649cb3c92f9a4c72b00c322731f08",

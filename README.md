@@ -22,23 +22,23 @@ A curated list of resources for Learning with Noisy Labels
 
 ## Papers & Code
 
-* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,607 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21
+* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
 
-* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,561 | 🐛 1,266 | 🌐 Python | 📅 2026-07-27
+* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,563 | 🐛 1,266 | 🌐 Python | 📅 2026-07-27
 
-* 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,163 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+* 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,166 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
 * 2019-CVPR - Improving Semantic Segmentation via Video Propagation and Label Relaxation. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.html) [\[Code\]](https://github.com/NVIDIA/semantic-segmentation) ⭐ 1,828 | 🐛 89 | 🌐 Python | 📅 2021-07-26
 
 * 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [\[Paper\]](https://arxiv.org/abs/1710.09412) [\[Code\]](https://github.com/facebookresearch/mixup-cifar10) ⚠️ Archived
 
-* 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [\[Paper\]](https://arxiv.org/abs/1511.02683) [\[Code-Pytorch\]](https://github.com/AlfredXiangWu/LightCNN) ⭐ 961 | 🐛 3 | 🌐 Python | 📅 2022-02-09 [\[Code-Keras\]](https://github.com/AlfredXiangWu/face_verification_experiment) ⭐ 721 | 🐛 2 | 🌐 Matlab | 📅 2017-02-10 [\[Code-Tensorflow\]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN) ⭐ 78 | 🐛 7 | 🌐 Python | 📅 2018-01-09
+* 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [\[Paper\]](https://arxiv.org/abs/1511.02683) [\[Code-Pytorch\]](https://github.com/AlfredXiangWu/LightCNN) ⭐ 960 | 🐛 3 | 🌐 Python | 📅 2022-02-09 [\[Code-Keras\]](https://github.com/AlfredXiangWu/face_verification_experiment) ⭐ 721 | 🐛 2 | 🌐 Matlab | 📅 2017-02-10 [\[Code-Tensorflow\]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN) ⭐ 78 | 🐛 7 | 🌐 Python | 📅 2018-01-09
 
 * 2020-CVPR - Self-Training With Noisy Student Improves ImageNet Classification. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/noisystudent) ⚠️ Archived
 
 * 2020-ICLR - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [\[Paper\]](https://arxiv.org/abs/2002.07394) [\[Code\]](https://github.com/LiJunnan1992/DivideMix) ⭐ 577 | 🐛 9 | 🌐 Python | 📅 2020-09-14
 
-* 2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [\[Paper\]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [\[Code\]](https://github.com/bhanML/Co-teaching) ⭐ 522 | 🐛 9 | 🌐 Python | 📅 2021-08-19
+* 2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [\[Paper\]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [\[Code\]](https://github.com/bhanML/Co-teaching) ⭐ 521 | 🐛 9 | 🌐 Python | 📅 2021-08-19
 
 * 2019-CVPR - Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Acuna_Devil_Is_in_the_Edges_Learning_Semantic_Boundaries_From_Noisy_CVPR_2019_paper.html) [\[Code\]](https://github.com/nv-tlabs/STEAL) ⭐ 481 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-10-23 [\[Project-page\]](https://nv-tlabs.github.io/STEAL/)
 
@@ -130,9 +130,9 @@ A curated list of resources for Learning with Noisy Labels
 
 * 2019-ICCV - O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks.[\[Paper\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_O2U-Net_A_Simple_Noisy_Label_Detection_Approach_for_Deep_Neural_ICCV_2019_paper.html) [\[Code\]](https://github.com/hjimce/O2U-Net) ⭐ 78 | 🐛 4 | 🌐 Python | 📅 2022-07-15
 
-* 2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [\[Paper\]](https://openreview.net/forum?id=Eql5b1_hTE4) [\[Code\]](https://github.com/xiaoboxia/CDR) ⭐ 78 | 🐛 0 | 🌐 Python | 📅 2021-06-15
-
 * 2021-CVPR - Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation. [\[Paper\]](https://arxiv.org/abs/2104.00905) [\[Code\]](https://github.com/cvlab-yonsei/BANA) ⭐ 77 | 🐛 5 | 🌐 Python | 📅 2025-01-02
+
+* 2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [\[Paper\]](https://openreview.net/forum?id=Eql5b1_hTE4) [\[Code\]](https://github.com/xiaoboxia/CDR) ⭐ 77 | 🐛 0 | 🌐 Python | 📅 2021-06-15
 
 * 2024-CVPR - SURE: SUrvey REcipes for building reliable and robust deep networks [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SURE_SUrvey_REcipes_for_building_reliable_and_robust_deep_networks_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/YutingLi0606/SURE) ⭐ 76 | 🐛 0 | 🌐 Python | 📅 2025-08-21
 
@@ -578,4 +578,4 @@ Some of the above contents are borrowed from [Noisy-Labels-Problem-Collection](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
