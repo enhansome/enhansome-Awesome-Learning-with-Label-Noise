@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Research",
+            "homepage": "https://research.google",
             "id": 151619717,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:11:14Z",
+            "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38635
+            "stars": 38643,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -26,12 +35,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-art 2D and 3D Face Analysis Project",
+            "homepage": "https://insightface.ai",
             "id": 102057483,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-27T03:22:16Z",
+            "open_issues": 1269,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29591
+            "stars": 29594,
+            "topics": [
+              "age-estimation",
+              "arcface",
+              "face-alignment",
+              "face-detection",
+              "face-recognition",
+              "mxnet",
+              "oneflow",
+              "paddlepaddle",
+              "pytorch",
+              "retinaface"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -42,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+            "homepage": null,
             "id": 165826654,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T13:51:27Z",
+            "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15170
+            "stars": 15173,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nvidia Semantic Segmentation monorepo",
+            "homepage": null,
             "id": 191994859,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-07-26T23:48:15Z",
+            "open_issues": 89,
             "owner": "NVIDIA",
             "repo": "semantic-segmentation",
-            "stars": 1828
+            "stars": 1828,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -74,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "mixup: Beyond Empirical Risk Minimization",
+            "homepage": null,
             "id": 122017965,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-12T21:33:03Z",
+            "open_issues": 15,
             "owner": "facebookresearch",
             "repo": "mixup-cifar10",
-            "stars": 1197
+            "stars": 1197,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -90,12 +130,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Light CNN for Deep Face Representation with Noisy Labels, TIFS 2018",
+            "homepage": "https://arxiv.org/abs/1511.02683",
             "id": 96199030,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-09T07:09:29Z",
+            "open_issues": 3,
             "owner": "AlfredXiangWu",
             "repo": "LightCNN",
-            "stars": 960
+            "stars": 960,
+            "topics": [
+              "face-recognition",
+              "lightcnn",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -106,12 +155,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for Noisy Student Training. https://arxiv.org/abs/1911.04252",
+            "homepage": null,
             "id": 240595880,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-21T18:46:47Z",
+            "open_issues": 8,
             "owner": "google-research",
             "repo": "noisystudent",
-            "stars": 764
+            "stars": 764,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -122,12 +176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper: DivideMix: Learning with Noisy Labels as Semi-supervised Learning ",
+            "homepage": null,
             "id": 223125163,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-14T10:20:04Z",
+            "open_issues": 9,
             "owner": "LiJunnan1992",
             "repo": "DivideMix",
-            "stars": 577
+            "stars": 577,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -138,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS'18: Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels",
+            "homepage": null,
             "id": 153425627,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-19T13:18:14Z",
+            "open_issues": 9,
             "owner": "bhanML",
             "repo": "Co-teaching",
-            "stars": 521
+            "stars": 521,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -154,12 +218,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "STEAL - Learning Semantic Boundaries from Noisy Annotations (CVPR 2019)",
+            "homepage": "https://nv-tlabs.github.io/STEAL/",
             "id": 181571095,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-10-23T16:32:14Z",
+            "open_issues": 11,
             "owner": "nv-tlabs",
             "repo": "STEAL",
-            "stars": 481
+            "stars": 481,
+            "topics": [
+              "annotation",
+              "cvpr2019",
+              "deep-learning",
+              "devil-is-in-the-edges",
+              "nv-tlabs",
+              "pytorch",
+              "semantic-boundaries",
+              "semantic-segmentation",
+              "steal"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -170,12 +249,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IJCAI2020 & IJCV2021 :city_sunrise: Unsupervised Scene Adaptation with Memory Regularization in vivo ",
+            "homepage": "https://arxiv.org/abs/1912.11164",
             "id": 236876113,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-24T13:01:02Z",
+            "open_issues": 9,
             "owner": "layumi",
             "repo": "Seg-Uncertainty",
-            "stars": 397
+            "stars": 397,
+            "topics": [
+              "cityscapes",
+              "domain-adaptation",
+              "domainadaptation",
+              "gta5",
+              "ijcai",
+              "ijcai2020",
+              "ijcv",
+              "mrnet",
+              "pytorch",
+              "pytorch-implementation",
+              "robotcar",
+              "self-driving-car",
+              "semantic-segmentation",
+              "synthia",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -186,12 +286,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks",
+            "homepage": null,
             "id": 144607074,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-25T00:03:02Z",
+            "open_issues": 5,
             "owner": "google",
             "repo": "mentornet",
-            "stars": 326
+            "stars": 326,
+            "topics": [
+              "deep-learning",
+              "google",
+              "label",
+              "noisy",
+              "noisy-data"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -202,12 +313,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of Early-Learning Regularization Prevents Memorization of Noisy Labels",
+            "homepage": null,
             "id": 274533410,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-22T22:46:04Z",
+            "open_issues": 4,
             "owner": "shengliu66",
             "repo": "ELR",
-            "stars": 302
+            "stars": 302,
+            "topics": [
+              "deep-learning",
+              "noisy-labels",
+              "robust-learning",
+              "statistical-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -218,12 +339,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS'19: Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting (Pytorch implementation for noisy labels).",
+            "homepage": null,
             "id": 207342722,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-14T03:17:23Z",
+            "open_issues": 8,
             "owner": "xjtushujun",
             "repo": "meta-weight-net",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "class-imbalance",
+              "meta-learning",
+              "noisy-labels",
+              "sample-reweighting"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -234,12 +365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"Learning to Reweight Examples for Robust Deep Learning\"",
+            "homepage": null,
             "id": 168585690,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-03-22T15:47:23Z",
+            "open_issues": 9,
             "owner": "uber-research",
             "repo": "learning-to-reweight-examples",
-            "stars": 270
+            "stars": 270,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -250,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source codes of our paper in CVPR 2019:  Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection",
+            "homepage": null,
             "id": 172420037,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-26T10:16:24Z",
+            "open_issues": 16,
             "owner": "jx-zhong-for-academic-purpose",
             "repo": "GCN-Anomaly-Detection",
-            "stars": 240
+            "stars": 240,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -266,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of ICML 2019 Unsupervised label noise modeling and loss correction",
+            "homepage": null,
             "id": 183203365,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-30T07:43:24Z",
+            "open_issues": 2,
             "owner": "PaulAlbert31",
             "repo": "LabelNoiseCorrection",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -282,12 +428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of PiCO https://arxiv.org/abs/2201.08984",
+            "homepage": null,
             "id": 449571452,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-03T04:48:52Z",
+            "open_issues": 2,
             "owner": "hbzju",
             "repo": "PiCO",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -298,12 +449,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠️ Corrected Test Sets for ImageNet, MNIST, CIFAR, Caltech-256, QuickDraw, IMDB, Amazon Reviews, 20News, and AudioSet",
+            "homepage": "https://labelerrors.com/",
             "id": 348066415,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-12-16T06:37:19Z",
+            "open_issues": 0,
             "owner": "cleanlab",
             "repo": "label-errors",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "benchmarking",
+              "datasets",
+              "label-errors",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -314,12 +475,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ICCV2019 \"Symmetric Cross Entropy for Robust Learning with Noisy Labels\"",
+            "homepage": "https://arxiv.org/abs/1908.06112",
             "id": 206946185,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-16T12:23:50Z",
+            "open_issues": 2,
             "owner": "YisenWang",
             "repo": "symmetric_cross_entropy_for_noisy_labels",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "cross-entropy-loss",
+              "iccv2019",
+              "noisy-labels"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -330,12 +500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 323227492,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-23T13:42:15Z",
+            "open_issues": 4,
             "owner": "deu30303",
             "repo": "RUC",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -346,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Robust Bi-Tempered Logistic Loss Based on Bregman Divergences. https://arxiv.org/pdf/1906.03361.pdf",
+            "homepage": "https://google.github.io/bi-tempered-loss/",
             "id": 199515847,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-22T09:04:12Z",
+            "open_issues": 2,
             "owner": "google",
             "repo": "bi-tempered-loss",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -362,12 +542,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML2020] Normalized Loss Functions for Deep Learning with Noisy Labels",
+            "homepage": null,
             "id": 237866001,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-05T05:07:41Z",
+            "open_issues": 1,
             "owner": "HanxunH",
             "repo": "Active-Passive-Losses",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "icml",
+              "icml-2020",
+              "label-noise",
+              "noisy-data",
+              "noisy-labels",
+              "pytorch",
+              "robust-learning",
+              "unreliable-labels"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -378,12 +574,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of Probabilistic End-to-end Noise Correction for Learning with Noisy Labels, CVPR 2019.",
+            "homepage": null,
             "id": 193790821,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-05T02:13:36Z",
+            "open_issues": 8,
             "owner": "yikun2019",
             "repo": "PENCIL",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -394,12 +595,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Noise-Tolerant Paradigm for Training Face Recognition CNNs [Official, CVPR 2019]",
+            "homepage": "https://arxiv.org/pdf/1903.10357.pdf",
             "id": 175357218,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-03-27T01:33:35Z",
+            "open_issues": 8,
             "owner": "huangyangyu",
             "repo": "NoiseFace",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "caffe",
+              "cnn",
+              "cvpr2019",
+              "face-recognition",
+              "noisy-labels"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -410,12 +622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR'20: Combating Noisy Labels by Agreement: A Joint Training Method with Co-Regularization",
+            "homepage": null,
             "id": 244822797,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-24T11:29:20Z",
+            "open_issues": 2,
             "owner": "hongxin001",
             "repo": "JoCoR",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -426,12 +643,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TPAMI2022 & NeurIPS2020] Official implementation of Self-Adaptive Training",
+            "homepage": null,
             "id": 242276268,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-17T09:31:45Z",
+            "open_issues": 2,
             "owner": "LayneH",
             "repo": "self-adaptive-training",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "adversarial-robustness",
+              "computer-vision",
+              "generalization",
+              "label-noise",
+              "machine-learning",
+              "overfitting"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -442,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of ChoiceNet",
+            "homepage": null,
             "id": 134515605,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2018-07-31T14:59:04Z",
+            "open_issues": 0,
             "owner": "sjchoi86",
             "repo": "choicenet",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -458,12 +692,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of the ACM MM'21 paper Co-learning: Learning from noisy labels with self-supervision.",
+            "homepage": null,
             "id": 348677687,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-17T03:09:49Z",
+            "open_issues": 2,
             "owner": "chengtan9907",
             "repo": "Co-learning",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "awesome-list",
+              "benchmark",
+              "cifar10",
+              "cifar100",
+              "contrastive-learning",
+              "deep-learning",
+              "label-noise",
+              "noisy-label-learning",
+              "noisy-labels",
+              "pytorch",
+              "self-supervised-learning",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -474,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meta-Learning based Noise-Tolerant Training",
+            "homepage": null,
             "id": 162524433,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-16T23:58:16Z",
+            "open_issues": 8,
             "owner": "LiJunnan1992",
             "repo": "MLNT",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -490,12 +747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the CVPR15 paper \"Learning from Massive Noisy Labeled Data for Image Classification\"",
+            "homepage": "http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xiao_Learning_From_Massive_2015_CVPR_paper.pdf",
             "id": 43726894,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-06T19:35:01Z",
+            "open_issues": 6,
             "owner": "Cysu",
             "repo": "noisy_label",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -506,12 +768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRAINING DEEP NEURAL-NETWORKS USING A NOISE ADAPTATION LAYER",
+            "homepage": null,
             "id": 72859267,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-04-25T21:20:11Z",
+            "open_issues": 4,
             "owner": "udibr",
             "repo": "noisy_labels",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -522,12 +789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for NeurIPS 2019 Paper, \"L_DMI: An Information-theoretic Noise-robust Loss Function\"",
+            "homepage": null,
             "id": 206982485,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-06T16:01:33Z",
+            "open_issues": 4,
             "owner": "Newbeeer",
             "repo": "L_DMI",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -538,12 +810,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] Code for \"Augmentation Strategies for Learning with Noisy Labels\".",
+            "homepage": "https://openaccess.thecvf.com/content/CVPR2021/html/Nishi_Augmentation_Strategies_for_Learning_With_Noisy_Labels_CVPR_2021_paper.html",
             "id": 313829882,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-09T06:16:57Z",
+            "open_issues": 0,
             "owner": "KentoNishi",
             "repo": "Augmentation-for-LNL",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "augmentation-policies",
+              "cifar10",
+              "cifar100",
+              "clothing1m",
+              "cvpr",
+              "cvpr2021",
+              "data-augmentation",
+              "data-augmentation-strategies",
+              "label-noise",
+              "label-noise-robustness",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -554,12 +843,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLNL: Negative Learning for Noisy Labels",
+            "homepage": null,
             "id": 220369876,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-14T09:49:30Z",
+            "open_issues": 6,
             "owner": "ydkim1293",
             "repo": "NLNL-Negative-Learning-for-Noisy-Labels",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "negative-learning",
+              "nlnl",
+              "noisy-labels",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -570,12 +869,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-Training Buys Better Robustness and Uncertainty Estimates (ICML 2019)",
+            "homepage": null,
             "id": 168016371,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-01T02:46:35Z",
+            "open_issues": 3,
             "owner": "hendrycks",
             "repo": "pre-training",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "adversarial-examples",
+              "calibration",
+              "data-corruption",
+              "ml-safety",
+              "out-of-distribution-detection",
+              "pretrained",
+              "robustness",
+              "uncertainty"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -586,12 +899,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for the paper \"Learning Sound Event Classifiers from Web Audio with Noisy Labels\"",
+            "homepage": null,
             "id": 156909007,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-11T14:18:02Z",
+            "open_issues": 1,
             "owner": "edufonseca",
             "repo": "icassp19",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -602,12 +920,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for the paper \"Learning Sound Event Classifiers from Web Audio with Noisy Labels\"",
+            "homepage": null,
             "id": 156909007,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-11T14:18:02Z",
+            "open_issues": 1,
             "owner": "edufonseca",
             "repo": "icassp19",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -618,12 +941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for the paper \"Learning Sound Event Classifiers from Web Audio with Noisy Labels\"",
+            "homepage": null,
             "id": 156909007,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-11T14:18:02Z",
+            "open_issues": 1,
             "owner": "edufonseca",
             "repo": "icassp19",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -634,12 +962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS'2019: Are Anchor Points Really Indispensable in Label-Noise Learning?",
+            "homepage": null,
             "id": 212718741,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-18T01:58:20Z",
+            "open_issues": 1,
             "owner": "xiaoboxia",
             "repo": "T-Revision",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -650,12 +983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rGAN: Label-Noise Robust Generative Adversarial Networks",
+            "homepage": "https://takuhirok.github.io/rGAN/",
             "id": 179787574,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-19T17:19:48Z",
+            "open_issues": 1,
             "owner": "takuhirok",
             "repo": "rGAN",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -666,12 +1004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR 2022: Selective-Supervised Contrastive Learning with Noisy Labels",
+            "homepage": null,
             "id": 467355295,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-28T05:35:34Z",
+            "open_issues": 5,
             "owner": "ShikunLi",
             "repo": "Sel-CL",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -682,12 +1025,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive Early-Learning Correction for Segmentation from Noisy Annotations (CVPR 2022 Oral)",
+            "homepage": null,
             "id": 413868354,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-19T05:04:15Z",
+            "open_issues": 5,
             "owner": "Kangningthu",
             "repo": "ADELE",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "noisy-labels",
+              "segmentation",
+              "weakly-supervised-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -698,12 +1053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robust loss functions for deep neural networks (CVPR 2017)",
+            "homepage": null,
             "id": 86898257,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-11T13:25:32Z",
+            "open_issues": 2,
             "owner": "giorgiop",
             "repo": "loss-correction",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -714,12 +1074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robust loss functions for deep neural networks (CVPR 2017)",
+            "homepage": null,
             "id": 86898257,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-11T13:25:32Z",
+            "open_issues": 2,
             "owner": "giorgiop",
             "repo": "loss-correction",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -730,12 +1095,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICML 2019: Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels",
+            "homepage": null,
             "id": 184867519,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-10T07:09:12Z",
+            "open_issues": 4,
             "owner": "chenpf1025",
             "repo": "noisy_label_understanding_utilizing",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "icml",
+              "noisy-labels",
+              "robust"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -746,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gold Loss Correction",
+            "homepage": null,
             "id": 121550832,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-01T20:50:25Z",
+            "open_issues": 0,
             "owner": "mmazeika",
             "repo": "glc",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -762,12 +1141,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow source code for \"CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise\" (CVPR 2018)",
+            "homepage": null,
             "id": 129048365,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-06-26T19:41:57Z",
+            "open_issues": 3,
             "owner": "kuanghuei",
             "repo": "clean-net",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "label-noise",
+              "large-scale-learning",
+              "tensorflow",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -778,12 +1169,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MoPro: Webly Supervised Learning",
+            "homepage": null,
             "id": 293913808,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-01T17:27:36Z",
+            "open_issues": 0,
             "owner": "salesforce",
             "repo": "MoPro",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "noisy-labels",
+              "representation-learning",
+              "weakly-supervised-learning",
+              "webly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -794,12 +1195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meta Label Correction for Noisy Label Learning",
+            "homepage": null,
             "id": 335071333,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-28T17:27:26Z",
+            "open_issues": 5,
             "owner": "microsoft",
             "repo": "MLC",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -810,12 +1216,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧹 Formerly for binary classification with noisy labels. Replaced by cleanlab.",
+            "homepage": "http://auai.org/uai2017/proceedings/papers/35.pdf",
             "id": 87587727,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-05-15T05:21:36Z",
+            "open_issues": 0,
             "owner": "cgnorthcutt",
             "repo": "rankpruning",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "binary-classification",
+              "denoising",
+              "learning-with-confident-examples",
+              "learning-with-errors",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "mislabeling",
+              "noise-rates",
+              "noisy-learning",
+              "rank-pruning-algorithm",
+              "ranking",
+              "semi-supervised-learning",
+              "training"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -826,12 +1251,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official code for the paper \"Delving Deep into Label Smoothing\", IEEE TIP 2021",
+            "homepage": "https://arxiv.org/abs/2011.12562",
             "id": 326705535,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-06T13:57:02Z",
+            "open_issues": 2,
             "owner": "zhangchbin",
             "repo": "OnlineLabelSmoothing",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "adversarial-attacks",
+              "classification",
+              "deep-learning",
+              "fine-grained-classification",
+              "noisy-labels",
+              "pytorch",
+              "regularization",
+              "robustness",
+              "tip2021"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -842,12 +1282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large-Scale Pre-training for Person Re-identification with Noisy Labels (LUPerson-NL)",
+            "homepage": null,
             "id": 471940586,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-20T03:40:47Z",
+            "open_issues": 6,
             "owner": "DengpanFu",
             "repo": "LUPerson-NL",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -858,12 +1303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "paper \"O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks\" code",
+            "homepage": null,
             "id": 287474934,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-15T08:16:37Z",
+            "open_issues": 4,
             "owner": "hjimce",
             "repo": "O2U-Net",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -874,12 +1324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An official implementation of \"Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation\" (CVPR 2021) in PyTorch.",
+            "homepage": null,
             "id": 378711764,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-02T04:42:07Z",
+            "open_issues": 5,
             "owner": "cvlab-yonsei",
             "repo": "BANA",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -890,12 +1345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICLR‘2021: Robust Early-learning: Hindering the Memorization of Noisy Labels",
+            "homepage": null,
             "id": 346998000,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-15T15:33:51Z",
+            "open_issues": 0,
             "owner": "xiaoboxia",
             "repo": "CDR",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -906,12 +1366,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "“SURE: SUrvey REcipes for building reliable and robust deep networks” (CVPR 2024) & (ECCV 2024 OOD-CV Challenge Winner)",
+            "homepage": "https://yutingli0606.github.io/SURE/",
             "id": 765659973,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-21T09:23:03Z",
+            "open_issues": 0,
             "owner": "Intellindust-AI-Lab",
             "repo": "SURE",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "data-corruption",
+              "failure-prediction",
+              "label-noise",
+              "long-tailed-distribution",
+              "out-of-distribution-detection",
+              "uncertainty-estimation"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -922,12 +1394,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2020] Disentangling Human Error from the Ground Truth in Segmentation of Medical Images",
+            "homepage": null,
             "id": 282682804,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-25T11:20:05Z",
+            "open_issues": 5,
             "owner": "moucheng2017",
             "repo": "Med-Noisy-Labels",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "noisy-labels",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -938,12 +1418,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of \"Contrast to Divide: self-supervised pre-training for learning with noisy labels\"",
+            "homepage": null,
             "id": 299934447,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-30T07:20:41Z",
+            "open_issues": 7,
             "owner": "ContrastToDivide",
             "repo": "C2D",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "cifar-10",
+              "clothing1m",
+              "deep-learning",
+              "noisy-labels",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -954,12 +1445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NR-GAN: Noise Robust Generative Adversarial Networks",
+            "homepage": "https://takuhirok.github.io/NR-GAN/",
             "id": 249465542,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-03T21:42:44Z",
+            "open_issues": 3,
             "owner": "takuhirok",
             "repo": "NR-GAN",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -970,12 +1466,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 68320323,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2017-02-24T23:56:01Z",
+            "open_issues": 0,
             "owner": "google",
             "repo": "goldfinch",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -986,12 +1487,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of Unweighted Data Subsampling via Influence Function - AAAI 2020",
+            "homepage": null,
             "id": 221117990,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-04-14T11:58:34Z",
+            "open_issues": 1,
             "owner": "RyanWangZf",
             "repo": "Influence_Subsampling",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "aaai",
+              "aaai2020",
+              "influence-functions",
+              "newton-cg",
+              "noisy-labels",
+              "subsampling",
+              "truncated-newton-method"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1002,12 +1516,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'22] Official Implementation of the CVPR 2022 paper \"UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning\"",
+            "homepage": null,
             "id": 474201764,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-10T01:36:08Z",
+            "open_issues": 3,
             "owner": "nazmul-karim170",
             "repo": "UNICON",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "contrastive-learning",
+              "deep-learning",
+              "deep-neural-networks",
+              "jensen-shannon-divergence",
+              "label-noise-robustness",
+              "machine-learning",
+              "noisy-labels",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1018,12 +1546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS'2020: Part-dependent Label Noise: Towards Instance-dependent Label Noise",
+            "homepage": null,
             "id": 304520891,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-16T09:13:05Z",
+            "open_issues": 1,
             "owner": "xiaoboxia",
             "repo": "Part-dependent-label-noise",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1034,12 +1567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Label de-noising for deep learning",
+            "homepage": null,
             "id": 186513261,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-10T22:41:05Z",
+            "open_issues": 6,
             "owner": "thulas",
             "repo": "dac-label-noise",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1050,12 +1588,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "noisy labels; missing labels; semi-supervised learning; entropy; uncertainty; robustness and generalisation. ",
+            "homepage": null,
             "id": 270336641,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-07T16:56:15Z",
+            "open_issues": 2,
             "owner": "XinshaoAmosWang",
             "repo": "ProSelfLC-AT",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "entropy",
+              "knowledge-distillation",
+              "missing-labels",
+              "noisy-labels",
+              "robust-optimization",
+              "semi-supervised-learning",
+              "uncertainty"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1066,12 +1617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"Dimensionality-Driven Learning with Noisy Labels\" - ICML 2018",
+            "homepage": null,
             "id": 135313331,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-11T07:57:07Z",
+            "open_issues": 9,
             "owner": "xingjunm",
             "repo": "dimensionality-driven-learning",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1082,12 +1638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our CVPR 2021 paper \"MetaCam+DSCE\"",
+            "homepage": null,
             "id": 345499435,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-31T20:35:36Z",
+            "open_issues": 2,
             "owner": "FlyingRoastDuck",
             "repo": "MetaCam_DSCE",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1098,12 +1659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official cleanlab repo is at https://github.com/cleanlab/cleanlab",
+            "homepage": "https://github.com/cleanlab/cleanlab",
             "id": 460599655,
             "language": null,
+            "license": "AGPL-3.0",
             "last_commit": "2023-02-01T06:27:59Z",
+            "open_issues": 0,
             "owner": "cgnorthcutt",
             "repo": "cleanlab",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1114,12 +1680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS'18: Masking: A New Perspective of Noisy Supervision",
+            "homepage": null,
             "id": 153427673,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-11-29T05:48:43Z",
+            "open_issues": 0,
             "owner": "bhanML",
             "repo": "Masking",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1130,12 +1701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 184901362,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-01-12T03:22:58Z",
+            "open_issues": 5,
             "owner": "kaist-dmlab",
             "repo": "SELFIE",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1146,12 +1722,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation for Partially View-aligned Representation Learning with Noise-robust Contrastive Loss (CVPR 2021)",
+            "homepage": null,
             "id": 350921381,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-26T07:56:29Z",
+            "open_issues": 0,
             "owner": "XLearning-SCU",
             "repo": "2021-CVPR-MvCLN",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "contrastive-loss",
+              "multi-view-learning",
+              "noisy-labels"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1162,12 +1747,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(L2ID@CVPR2021, TNNLS2022) Boosting Co-teaching with Compression Regularization for Label Noise",
+            "homepage": "https://l2id.github.io/",
             "id": 359421344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-28T14:25:45Z",
+            "open_issues": 0,
             "owner": "yingyichen-cyy",
             "repo": "Nested-Co-teaching",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "animal-10n",
+              "clothing1m",
+              "cvpr-workshop-2021",
+              "noisy-label-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1178,12 +1773,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of experiments in paper \"Learning from Rules Generalizing Labeled Exemplars\" to appear in ICLR2020 (https://openreview.net/forum?id=SkeuexBtDr) ",
+            "homepage": null,
             "id": 229550212,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-28T16:44:43Z",
+            "open_issues": 3,
             "owner": "awasthiabhijeet",
             "repo": "Learning-From-Rules",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "data-augmentation",
+              "high-level-supervision",
+              "iclr2020",
+              "representation-learning",
+              "rule-based-nlp",
+              "rulebasednlp",
+              "weak-supervision",
+              "weakly-supervised",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1194,12 +1804,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICLR 2021, \"Learning with feature-dependent label noise: a progressive approach\"",
+            "homepage": null,
             "id": 334777653,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-29T18:45:09Z",
+            "open_issues": 4,
             "owner": "pxiangwu",
             "repo": "PLC",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "iclr2021",
+              "label-noise",
+              "machine-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1210,12 +1830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joint Optimization Framework for Learning with Noisy Labels",
+            "homepage": null,
             "id": 131628780,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-05-04T14:04:52Z",
+            "open_issues": 2,
             "owner": "DaikiTanaka-UT",
             "repo": "JointOptimization",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1226,12 +1851,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Few-shot learning with mislabeled support samples",
+            "homepage": null,
             "id": 447391488,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-28T07:44:05Z",
+            "open_issues": 1,
             "owner": "facebookresearch",
             "repo": "noisy_few_shot",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1242,12 +1872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Second-Order Approach to Learning with Instance-Dependent Label Noise (CVPR'21 oral)",
+            "homepage": null,
             "id": 351582820,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-24T17:25:59Z",
+            "open_issues": 2,
             "owner": "UCSC-REAL",
             "repo": "CAL",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1258,12 +1893,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS 2021, \"Fine Samples for Learning with Noisy Labels\"",
+            "homepage": null,
             "id": 421500453,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-29T13:13:24Z",
+            "open_issues": 1,
             "owner": "Kthyeon",
             "repo": "FINE_official",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "machine-learning",
+              "neurips2021",
+              "noisy-label-learning",
+              "pytorch",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1274,12 +1920,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for reproducing results from our paper, Robustness of conditional GANs to noisy labels, NIPS 2018",
+            "homepage": null,
             "id": 156124559,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-12-23T15:34:11Z",
+            "open_issues": 2,
             "owner": "tkkiran",
             "repo": "Robust-Conditional-GAN",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1290,12 +1941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TPAMI: Classification with noisy labels by importance reweighting.",
+            "homepage": null,
             "id": 212718455,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-04T16:23:34Z",
+            "open_issues": 1,
             "owner": "xiaoboxia",
             "repo": "Classification-with-noisy-labels-by-importance-reweighting",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1306,12 +1962,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Improving generalization by controlling label-noise information in neural network weights.",
+            "homepage": null,
             "id": 203270232,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-11-20T09:39:32Z",
+            "open_issues": 0,
             "owner": "hrayrhar",
             "repo": "limit-label-memorization",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "generalization",
+              "information-theory",
+              "memorization",
+              "neural-network"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1322,12 +1988,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2020] Coresets for Robust Training of Neural Networks against Noisy Labels",
+            "homepage": "https://proceedings.neurips.cc/paper/2020/file/8493eeaccb772c0878f99d60a0bd2bb3-Paper.pdf",
             "id": 320057565,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-02T09:11:25Z",
+            "open_issues": 3,
             "owner": "snap-stanford",
             "repo": "crust",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1338,12 +2009,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AAAI 2021: Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise",
+            "homepage": null,
             "id": 317908144,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-09T01:53:21Z",
+            "open_issues": 1,
             "owner": "chenpf1025",
             "repo": "IDN",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "deep-neural-networks",
+              "instance-dependent-noise",
+              "label-noise",
+              "noisy-data",
+              "noisy-labels",
+              "robust-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1354,12 +2037,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An official PyTorch implementation of \"Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels\" (WSDM 2022))",
+            "homepage": null,
             "id": 440353364,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-05T04:29:04Z",
+            "open_issues": 1,
             "owner": "EnyanDai",
             "repo": "RSGNN",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "adversarial-attacks",
+              "gnn",
+              "graph",
+              "robustness"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1370,12 +2063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation for Deep Self-Learning From Noisy Labels",
+            "homepage": null,
             "id": 253185276,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-04-07T12:49:36Z",
+            "open_issues": 4,
             "owner": "sarsbug",
             "repo": "SMP",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1386,12 +2084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ranking-based-Instance-Selection",
+            "homepage": null,
             "id": 337271552,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-19T05:40:22Z",
+            "open_issues": 2,
             "owner": "alibaba-edu",
             "repo": "Ranking-based-Instance-Selection",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1402,12 +2105,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation for Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification (CVPR 2022).",
+            "homepage": null,
             "id": 465119872,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-01T13:22:20Z",
+            "open_issues": 0,
             "owner": "XLearning-SCU",
             "repo": "2022-CVPR-DART",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "cross-modality-re-identification",
+              "learning-with-noisy-labels",
+              "person-reid"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1418,12 +2130,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 358398710,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-04-22T05:24:11Z",
+            "open_issues": 1,
             "owner": "arghosh",
             "repo": "noisy_label_pretrain",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "contrastive-learning",
+              "cvpr",
+              "cvpr2021",
+              "meta-weight-net",
+              "noisy-label-learning",
+              "noisy-labels"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1434,12 +2158,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude’s Variance Matters",
+            "homepage": null,
             "id": 193940119,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-11-21T14:16:31Z",
+            "open_issues": 2,
             "owner": "XinshaoAmosWang",
             "repo": "Improving-Mean-Absolute-Error-against-CCE",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "category-cross-entropy",
+              "data-fitting",
+              "label-noise",
+              "mean-absolute-error",
+              "outliers",
+              "reweighting-examples"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1450,12 +2186,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS 2020, \"A Topological Filter for Learning with Label Noise\".",
+            "homepage": null,
             "id": 319546869,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-04-11T06:08:33Z",
+            "open_issues": 2,
             "owner": "pxiangwu",
             "repo": "TopoFilter",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "label",
+              "neurips-2020",
+              "noise"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1466,12 +2211,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise (BMVC2022)",
+            "homepage": "https://bmvc2022.mpi-inf.mpg.de/372/",
             "id": 543627452,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-22T13:15:44Z",
+            "open_issues": 0,
             "owner": "MrChenFeng",
             "repo": "SSR_BMVC2022",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "deep-learning",
+              "noisy-labels",
+              "pytorch",
+              "self-supervised-learning",
+              "semi-supervised-learning",
+              "supervised-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1482,12 +2240,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement Learning with Perturbed Reward, AAAI 2020",
+            "homepage": "https://arxiv.org/abs/1810.01032",
             "id": 234594561,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-02T16:11:32Z",
+            "open_issues": 1,
             "owner": "wangjksjtu",
             "repo": "rl-perturbed-reward",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "aaai2020",
+              "atari-games",
+              "confusion-matrix",
+              "noisy-labels",
+              "openai-gym",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1498,12 +2268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images",
+            "homepage": null,
             "id": 152348145,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-10-09T12:44:49Z",
+            "open_issues": 0,
             "owner": "guoshengcv",
             "repo": "CurriculumNet",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1514,12 +2289,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Binary neural networks developed by Huawei Noah's Ark Lab",
+            "homepage": null,
             "id": 303917991,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-02-19T06:15:10Z",
+            "open_issues": 3,
             "owner": "zhaohui-yang",
             "repo": "Binary-Neural-Networks",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "binary-neural-networks",
+              "convolutional-neural-networks",
+              "quantized-neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1530,12 +2314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning with Noisy Class Labels for Instance Segmentation",
+            "homepage": null,
             "id": 277538799,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-01T02:18:59Z",
+            "open_issues": 1,
             "owner": "longrongyang",
             "repo": "LNCIS",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1546,12 +2335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 240867989,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-12T06:36:33Z",
+            "open_issues": 1,
             "owner": "502463708",
             "repo": "Confident_Learning_for_Noisy-labeled_Medical_Image_Segmentation",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1562,12 +2356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation for our paper EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels",
+            "homepage": null,
             "id": 310993025,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-18T06:10:51Z",
+            "open_issues": 0,
             "owner": "ragavsachdeva",
             "repo": "EvidentialMix",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1578,12 +2377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 348243759,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-09T08:04:10Z",
+            "open_issues": 2,
             "owner": "youjiangxu",
             "repo": "FaMUS",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1594,12 +2398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning from Noisy Anchors for One-stage Object Detection",
+            "homepage": null,
             "id": 329778685,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-14T04:53:27Z",
+            "open_issues": 0,
             "owner": "henrylee2570",
             "repo": "NoisyAnchor",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1610,12 +2419,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Noise-Aware Fully Webly Supervised Object Detection",
+            "homepage": "https://github.com/shenyunhang/NA-fWebSOD",
             "id": 242912993,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-25T23:33:03Z",
+            "open_issues": 1,
             "owner": "shenyunhang",
             "repo": "NA-fWebSOD",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "object-detection",
+              "weakly-supervised-learning",
+              "weakly-supervised-object-detection",
+              "webly-supervised-detection",
+              "webly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1626,12 +2446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python Implementation of GLAD",
+            "homepage": null,
             "id": 27220288,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-18T10:04:45Z",
+            "open_issues": 0,
             "owner": "notani",
             "repo": "python-glad",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1642,12 +2467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyperspectral Image Classification in the Presence of Noisy Labels (IEEE TGRS, 2019)",
+            "homepage": "https://arxiv.org/abs/1809.04212",
             "id": 148310330,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-10-31T00:53:08Z",
+            "open_issues": 1,
             "owner": "junjun-jiang",
             "repo": "RLPA",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1658,12 +2488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 211120395,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-10T17:32:43Z",
+            "open_issues": 3,
             "owner": "pingqingsheng",
             "repo": "LRT",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1674,12 +2509,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch code for CVPR 2021 paper \"AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation\"",
+            "homepage": null,
             "id": 344941542,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-26T20:53:34Z",
+            "open_issues": 1,
             "owner": "gudovskiy",
             "repo": "autodo",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "autoaugment",
+              "automated-machine-learning",
+              "automl"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1690,12 +2534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 492698367,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-29T06:19:41Z",
+            "open_issues": 0,
             "owner": "BaeHeeSun",
             "repo": "NPC",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1706,12 +2555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CVPR 2016 paper on Learning from Noisy Labels",
+            "homepage": null,
             "id": 61927069,
             "language": "HTML",
+            "license": null,
             "last_commit": "2016-08-14T13:55:03Z",
+            "open_issues": 0,
             "owner": "imisra",
             "repo": "latent-noise-icnm",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1722,12 +2576,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. ICML 2020",
+            "homepage": null,
             "id": 277274446,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-23T21:45:33Z",
+            "open_issues": 3,
             "owner": "LARS-research",
             "repo": "S2E",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "automl",
+              "noisy-label-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1738,12 +2600,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the paper Identifying Mislabeled Data using the Area Under the Margin Ranking: https://arxiv.org/pdf/2001.10528v2.pdf",
+            "homepage": null,
             "id": 238664260,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-02-06T10:52:58Z",
+            "open_issues": 2,
             "owner": "Manuscrit",
             "repo": "Area-Under-the-Margin-Ranking",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "cleaning-data",
+              "deep-learning",
+              "mislabel-identification",
+              "noise-detection",
+              "paper",
+              "pytorch",
+              "pytorch-implementation"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1754,12 +2629,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AAAI 2021: Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels",
+            "homepage": null,
             "id": 317882391,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-09T01:52:44Z",
+            "open_issues": 1,
             "owner": "chenpf1025",
             "repo": "RobustnessAccuracy",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "deep-neural-networks",
+              "early-stopping",
+              "label-noise",
+              "noisy-data",
+              "noisy-labels",
+              "robust-learning",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1770,12 +2658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data release for the paper \"Learning from noisy labels by distillation\"",
+            "homepage": null,
             "id": 98270027,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2017-11-17T03:26:37Z",
+            "open_issues": 2,
             "owner": "raingo",
             "repo": "yfcc100m-entity",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1786,12 +2679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for paper Decoupling \"when to update\" from \"how to update\" [https://arxiv.org/abs/1706.02613]",
+            "homepage": null,
             "id": 107787312,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-16T16:19:35Z",
+            "open_issues": 0,
             "owner": "emalach",
             "repo": "UpdateByDisagreement",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1802,12 +2700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICML'19: How does Disagreement Help Generalization against Label Corruption?",
+            "homepage": null,
             "id": 195419414,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-06-30T22:06:53Z",
+            "open_issues": 0,
             "owner": "bhanML",
             "repo": "coteaching_plus",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1818,12 +2721,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 308325474,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-29T13:13:13Z",
+            "open_issues": 1,
             "owner": "google-research",
             "repo": "noisy-fewshot-learning",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1834,12 +2742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of a state-of-art algorithm from the paper “Learning with Noisy Labels” , which is the first one providing “guarantees for risk minimization under random label noise without any assumption on the true distribution.” ",
+            "homepage": null,
             "id": 116204018,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-03-08T23:25:34Z",
+            "open_issues": 3,
             "owner": "jamie2017",
             "repo": "LearningWithNoisyLabels",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1850,12 +2763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for the paper \"Meta Soft Label Generation for Noisy Labels\" accepted at ICPR 2020.",
+            "homepage": null,
             "id": 278930922,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-12T12:54:02Z",
+            "open_issues": 1,
             "owner": "gorkemalgan",
             "repo": "MSLG_noisy_label",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1866,12 +2784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 168160357,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-30T02:27:50Z",
+            "open_issues": 1,
             "owner": "songhwanjun",
             "repo": "ActiveBias",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1882,12 +2805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CVPR2020 ‘Training Noise Robust Deep Neural Networks via Meta-Learning’",
+            "homepage": null,
             "id": 249973613,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-06T01:49:34Z",
+            "open_issues": 0,
             "owner": "ZhenWang-PhD",
             "repo": "Training-Noise-Robust-Deep-Neural-Networks-via-Meta-Learning",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1898,12 +2826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official repo for our CVPR22 paper: Scalable Penalized Regression for Noise Detection in Learning With Noisy Labels.",
+            "homepage": null,
             "id": 469694679,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-21T08:55:51Z",
+            "open_issues": 0,
             "owner": "Yikai-Wang",
             "repo": "SPR-LNL",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1914,12 +2847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper: On Symmetric Losses for Learning from Corrupted Labels",
+            "homepage": null,
             "id": 185723564,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-05-11T10:36:03Z",
+            "open_issues": 0,
             "owner": "nolfwin",
             "repo": "symloss-ber-auc",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1930,12 +2868,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MentorMix] \"Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels\" implemented in the PyTorch version.",
+            "homepage": null,
             "id": 355096569,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-10T06:43:48Z",
+            "open_issues": 2,
             "owner": "LJY-HY",
             "repo": "MentorMix_pytorch",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "cifar10",
+              "cifar100",
+              "mentormix",
+              "mentormix-pytorch",
+              "noisy-labels",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1946,12 +2896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICML'20: SIGUA: Forgetting May Make Learning with Noisy Labels More Robust",
+            "homepage": null,
             "id": 304237053,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-14T02:11:29Z",
+            "open_issues": 1,
             "owner": "bhanML",
             "repo": "SIGUA",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1962,12 +2917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "convolutional code for feed-forward noise model",
+            "homepage": null,
             "id": 16979013,
             "language": "Cuda",
+            "license": null,
             "last_commit": "2014-11-26T18:48:47Z",
+            "open_issues": 1,
             "owner": "tesatory",
             "repo": "convnet-noisy",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1978,12 +2938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytorch implementation of SOSELETO",
+            "homepage": null,
             "id": 156748972,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-09-05T16:06:38Z",
+            "open_issues": 0,
             "owner": "orlitany",
             "repo": "SOSELETO",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -1994,12 +2959,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supplementary material and code for \"From Label Smoothing to Label Relaxation\" as published at AAAI 2021.",
+            "homepage": null,
             "id": 271773796,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T19:40:17Z",
+            "open_issues": 0,
             "owner": "julilien",
             "repo": "LabelRelaxation",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "aaai",
+              "aaai2021",
+              "calibration",
+              "deep-learning",
+              "label-relaxation",
+              "label-smoothing",
+              "machine-learning",
+              "regularization",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2010,12 +2990,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Re] Can gradient clipping mitigate label noise? (ML Reproducibility Challenge 2020)",
+            "homepage": "https://openreview.net/forum?id=TM_SgwWJA23",
             "id": 312299498,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-03T02:33:42Z",
+            "open_issues": 0,
             "owner": "dmizr",
             "repo": "phuber",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "gradient-clipping",
+              "label-noise",
+              "pytorch",
+              "robust-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2026,12 +3016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning An Explicit Weighting Scheme for Adapting Complex HSI Noise (CVPR2021)",
+            "homepage": null,
             "id": 357750667,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-21T03:17:42Z",
+            "open_issues": 1,
             "owner": "xyrui",
             "repo": "HWnet",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2042,12 +3037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch Implementation.",
+            "homepage": null,
             "id": 500295456,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-30T18:31:25Z",
+            "open_issues": 0,
             "owner": "SMNUResearch",
             "repo": "MVP-N",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2058,12 +3058,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 68552499,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2018-09-17T15:06:52Z",
+            "open_issues": 3,
             "owner": "ijindal",
             "repo": "Noisy_Dropout_regularization",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2074,12 +3079,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Bilevel Learning. In ECCV, 2018.",
+            "homepage": "https://sjenni.github.io/DeepBilevel/",
             "id": 147340457,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-03-25T10:59:16Z",
+            "open_issues": 1,
             "owner": "sjenni",
             "repo": "DeepBilevel",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "bilevel-optimization",
+              "cifar10",
+              "classification",
+              "computer-vision",
+              "deep-learning",
+              "inception",
+              "machine-learning",
+              "noisy-labels",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2090,12 +3110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(NeurIPS 2019) Combinatorial Inference against Label Noise",
+            "homepage": null,
             "id": 217055347,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-13T14:22:14Z",
+            "open_issues": 1,
             "owner": "geehokim",
             "repo": "Combinatorial-Inference",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2106,12 +3131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Divergence Optimization for Noisy Universal Domain Adaptation\"",
+            "homepage": null,
             "id": 375007716,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-06-12T16:36:58Z",
+            "open_issues": 1,
             "owner": "YU1ut",
             "repo": "Divergence-Optimization",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2122,12 +3152,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In the context of Deep Learning: What is the right way to conduct example weighting?  How do you understand loss functions and so-called theorems on them? ",
+            "homepage": null,
             "id": 198203665,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-03-04T23:24:41Z",
+            "open_issues": 2,
             "owner": "XinshaoAmosWang",
             "repo": "DerivativeManipulation",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "data-fitting",
+              "generalisation",
+              "label-noise",
+              "outlier",
+              "regularisation",
+              "reweighting-examples"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2138,12 +3180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 165858074,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-24T11:01:54Z",
+            "open_issues": 5,
             "owner": "Sunarker",
             "repo": "Safeguarded-Dynamic-Label-Regression-for-Noisy-Supervision",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2154,12 +3201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection",
+            "homepage": null,
             "id": 277979740,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-24T03:12:25Z",
+            "open_issues": 4,
             "owner": "JingZhang617",
             "repo": "Noise-aware-ABP-Saliency",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2170,12 +3222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the article \"Confidence Scores Make Instance-dependent Label-noise Learning Possible\", ICML'21",
+            "homepage": null,
             "id": 386984110,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-22T17:12:09Z",
+            "open_issues": 1,
             "owner": "antoninbrthn",
             "repo": "CSIDN",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2186,12 +3243,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SREA: Self-Re-Labeling with Embedding Analysis",
+            "homepage": null,
             "id": 379898110,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2021-08-26T15:31:10Z",
+            "open_issues": 0,
             "owner": "Castel44",
             "repo": "SREA",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "classification",
+              "deep-learning",
+              "label-noise",
+              "machine-learning",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2202,12 +3270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Adaptive Sample Selection for Robust Learning under Label Noise\" accepted at IEEE/CVF WACV 2023.",
+            "homepage": null,
             "id": 574808370,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-16T18:23:18Z",
+            "open_issues": 0,
             "owner": "dbp1994",
             "repo": "bare-wacv-2023",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2218,12 +3291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the pytroch code to reproduce the results the paper \"Wasserstein Adversarial Regularization for Learning with Label Noise\" ",
+            "homepage": null,
             "id": 379810620,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-12T17:07:57Z",
+            "open_issues": 0,
             "owner": "bbdamodaran",
             "repo": "WAR",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2234,12 +3312,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference implementation of Reweighted Probabilistic Models ",
+            "homepage": null,
             "id": 135195968,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-10-26T20:25:33Z",
+            "open_issues": 1,
             "owner": "yixinwang",
             "repo": "robust-rpm-public",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2250,12 +3333,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 310962809,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-10T04:57:17Z",
+            "open_issues": 0,
             "owner": "arghosh",
             "repo": "RobustMW-Net",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "label-noise",
+              "noise",
+              "noisy-labels",
+              "wacv2021"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2266,12 +3359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 348268487,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-16T08:28:52Z",
+            "open_issues": 4,
             "owner": "NUST-Machine-Intelligence-Laboratory",
             "repo": "Jo-SRC",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2282,12 +3380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auxiliary Image Regularization for Deep CNNs with Noisy labels at ICLR 2016",
+            "homepage": null,
             "id": 79296144,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2017-01-18T20:52:02Z",
+            "open_issues": 2,
             "owner": "azadis",
             "repo": "AIR",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2298,12 +3401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 98290975,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-09-22T04:28:58Z",
+            "open_issues": 1,
             "owner": "sbranson",
             "repo": "online_crowdsourcing",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2314,12 +3422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github repo for webly labeled learning of sound events",
+            "homepage": null,
             "id": 189540815,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-14T23:31:25Z",
+            "open_issues": 0,
             "owner": "anuragkr90",
             "repo": "webly-labeled-sounds",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2330,12 +3443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for experiments in paper \"Robust Optimization for Fairness with Noisy Protected Groups\".",
+            "homepage": null,
             "id": 238435509,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-15T07:08:42Z",
+            "open_issues": 1,
             "owner": "wenshuoguo",
             "repo": "robust-fairness-code",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2346,12 +3464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for my M.Tech (Research) thesis",
+            "homepage": "https://dbp1994.github.io",
             "id": 301807298,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-07T18:14:37Z",
+            "open_issues": 0,
             "owner": "dbp1994",
             "repo": "masters_thesis_codes",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2362,12 +3485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 543450859,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-28T04:13:48Z",
+            "open_issues": 1,
             "owner": "btsmart",
             "repo": "bootstrapping-label-noise",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2378,12 +3506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chainer implementation of Noisy Labels Neural-Network",
+            "homepage": null,
             "id": 83421212,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-02-28T14:57:07Z",
+            "open_issues": 1,
             "owner": "Ryo-Ito",
             "repo": "Noisy-Labels-Neural-Network",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2394,12 +3527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of DoctorNet from \"Who Said What: Modeling Individual Labelers Improves Classification\"",
+            "homepage": null,
             "id": 340273349,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-23T07:04:42Z",
+            "open_issues": 0,
             "owner": "seunghyukcho",
             "repo": "doctornet-pytorch",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2410,12 +3548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Noise-tolerant fair classification",
+            "homepage": null,
             "id": 164167069,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-09-11T00:32:37Z",
+            "open_issues": 0,
             "owner": "AIasd",
             "repo": "noise_fairlearn",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2426,12 +3569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 384911298,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2021-07-28T21:15:30Z",
+            "open_issues": 2,
             "owner": "JiachengCheng96",
             "repo": "Learning-with-bounded-instance-and-label-dependent-label-noise",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2442,12 +3590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 437236718,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-26T14:09:11Z",
+            "open_issues": 0,
             "owner": "YaoruLuo",
             "repo": "Meta-Structures-for-DNN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2458,12 +3611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A meta-learning setup to utitlize the unlabeled data for target task. An implementation of \"Learning to learn from weak supervision by full supervision\". https://arxiv.org/abs/1711.11383",
+            "homepage": null,
             "id": 114352388,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-01-18T08:25:23Z",
+            "open_issues": 0,
             "owner": "krayush07",
             "repo": "learn-by-weak-supervision",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2474,12 +3632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Attend in Groups: a Weakly-supervised Deep Learning Framework for Learning from Web Data",
+            "homepage": "https://sites.google.com/view/bohanzhuang",
             "id": 215225643,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-06T08:07:17Z",
+            "open_issues": 0,
             "owner": "bohanzhuang",
             "repo": "Attend-in-Groups-a-Weakly-supervised-Deep-Learning-Framework-for-Learning-from-Web-Data",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2490,12 +3653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code of our paper submitted to SoCG 2019. ",
+            "homepage": null,
             "id": 160108361,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2018-12-04T03:23:18Z",
+            "open_issues": 0,
             "owner": "ClearMoonlight",
             "repo": "SoCG_2019",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2506,12 +3674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Additional information about the experiments in the Neurocomputing paper \"Noise detection in the meta-learning level\"",
+            "homepage": null,
             "id": 25221887,
             "language": "R",
+            "license": null,
             "last_commit": "2018-02-09T13:08:41Z",
+            "open_issues": 0,
             "owner": "lpfgarcia",
             "repo": "m2n",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         }
@@ -2528,12 +3701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Survey",
+            "homepage": null,
             "id": 353641610,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-13T01:32:00Z",
+            "open_issues": 1,
             "owner": "songhwanjun",
             "repo": "Awesome-Noisy-Labels",
-            "stars": 572
+            "stars": 572,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2544,12 +3722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial about noisy labels for SIBGRAPI 2020",
+            "homepage": null,
             "id": 308007971,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-11-06T10:56:39Z",
+            "open_issues": 0,
             "owner": "filipe-research",
             "repo": "tutorial_noisylabels",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2560,12 +3743,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect mislabeled examples in machine learning datasets",
+            "homepage": "https://openreview.net/forum?id=3YlOr7BHkx",
             "id": 845128513,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T15:12:48Z",
+            "open_issues": 0,
             "owner": "Orange-OpenSource",
             "repo": "mislabeled",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "data-centric-ai",
+              "data-quality",
+              "label-noise",
+              "machine-learning",
+              "noisy-labels",
+              "scikit-learn"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         }
@@ -2582,12 +3777,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated (most recent) list of resources for Learning with Noisy Labels",
+            "homepage": null,
             "id": 357807587,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-18T03:44:08Z",
+            "open_issues": 1,
             "owner": "weijiaheng",
             "repo": "Advances-in-Label-Noise-Learning",
-            "stars": 732
+            "stars": 732,
+            "topics": [
+              "conference",
+              "deep-learning",
+              "deep-neural-networks",
+              "international-conference",
+              "label-noise",
+              "learning-with-label-noise",
+              "learning-with-noisy-labels",
+              "noisy-data",
+              "noisy-label-learning",
+              "noisy-labels",
+              "paper",
+              "robust-learning",
+              "robust-machine-learning",
+              "robustness",
+              "unreliable-labels",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2598,12 +3815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Survey",
+            "homepage": null,
             "id": 353641610,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-13T01:32:00Z",
+            "open_issues": 1,
             "owner": "songhwanjun",
             "repo": "Awesome-Noisy-Labels",
-            "stars": 572
+            "stars": 572,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2614,12 +3836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo consists of collection of papers and repos on the topic of deep learning by noisy labels / label noise.",
+            "homepage": null,
             "id": 226804485,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-20T05:53:22Z",
+            "open_issues": 2,
             "owner": "gorkemalgan",
             "repo": "deep_learning_with_noisy_labels_literature",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2630,12 +3857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRAINING DEEP NEURAL-NETWORKS USING A NOISE ADAPTATION LAYER",
+            "homepage": null,
             "id": 72859267,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-04-25T21:20:11Z",
+            "open_issues": 4,
             "owner": "udibr",
             "repo": "noisy_labels",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2646,12 +3878,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧹 Formerly for binary classification with noisy labels. Replaced by cleanlab.",
+            "homepage": "http://auai.org/uai2017/proceedings/papers/35.pdf",
             "id": 87587727,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-05-15T05:21:36Z",
+            "open_issues": 0,
             "owner": "cgnorthcutt",
             "repo": "rankpruning",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "binary-classification",
+              "denoising",
+              "learning-with-confident-examples",
+              "learning-with-errors",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "mislabeling",
+              "noise-rates",
+              "noisy-learning",
+              "rank-pruning-algorithm",
+              "ranking",
+              "semi-supervised-learning",
+              "training"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2662,12 +3913,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tensorflow implementation of \"A Light CNN for Deep Face Representation with Noisy Labels\"",
+            "homepage": null,
             "id": 104062621,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-01-09T05:10:49Z",
+            "open_issues": 7,
             "owner": "yxu0611",
             "repo": "Tensorflow-implementation-of-LCNN",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "face-recognition",
+              "face-verification",
+              "lightcnn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2678,12 +3939,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2020] Disentangling Human Error from the Ground Truth in Segmentation of Medical Images",
+            "homepage": null,
             "id": 282682804,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-25T11:20:05Z",
+            "open_issues": 5,
             "owner": "moucheng2017",
             "repo": "Med-Noisy-Labels",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "noisy-labels",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2694,12 +3963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official cleanlab repo is at https://github.com/cleanlab/cleanlab",
+            "homepage": "https://github.com/cleanlab/cleanlab",
             "id": 460599655,
             "language": null,
+            "license": "AGPL-3.0",
             "last_commit": "2023-02-01T06:27:59Z",
+            "open_issues": 0,
             "owner": "cgnorthcutt",
             "repo": "cleanlab",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2710,12 +3984,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Extending the NLNN algorithm proposed by Bekker & Goldbergers in a Multi-tasking Learning set-up to handle noisy labels. In order to extend low-resource data we often used artificial annotators. In this following setup we aim to generate clean training labeled data from artificial annotators.",
+            "homepage": null,
             "id": 113357773,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-06-12T15:00:21Z",
+            "open_issues": 0,
             "owner": "uds-lsv",
             "repo": "Multi-tasking_Learning_With_Unreliable_Labels",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "machine-learning",
+              "nlp",
+              "noise-reduction"
+            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2726,12 +4009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the paper \"Training Convolutional Networks with Noisy Labels\" in python with keras, using vgg-16 network.",
+            "homepage": null,
             "id": 82059173,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-02-23T14:54:14Z",
+            "open_issues": 0,
             "owner": "delchiaro",
             "repo": "training-cnn-noisy-labels-keras",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2742,12 +4030,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for experiments in paper \"Robust Optimization for Fairness with Noisy Protected Groups\".",
+            "homepage": null,
             "id": 238435509,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-15T07:08:42Z",
+            "open_issues": 1,
             "owner": "wenshuoguo",
             "repo": "robust-fairness-code",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2758,12 +4051,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chainer implementation of Noisy Labels Neural-Network",
+            "homepage": null,
             "id": 83421212,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-02-28T14:57:07Z",
+            "open_issues": 1,
             "owner": "Ryo-Ito",
             "repo": "Noisy-Labels-Neural-Network",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -2774,12 +4072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Re-implementation of Bekker & Goldbergers Noisy Label Neural Network",
+            "homepage": null,
             "id": 64938052,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-09-04T17:16:46Z",
+            "open_issues": 1,
             "owner": "vdenberg",
             "repo": "noisy-label-neural-network",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         }
@@ -2788,15 +4091,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:24:47.190Z",
+    "last_updated": "2026-08-29T03:56:38.895Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources for Learning with Noisy Labels",
+      "homepage": null,
       "id": 197372529,
       "language": null,
+      "license": null,
       "last_commit": "2025-05-03T11:47:41Z",
+      "open_issues": 3,
       "owner": "subeeshvasu",
       "repo": "Awesome-Learning-with-Label-Noise",
-      "stars": 2717
+      "stars": 2717,
+      "topics": [
+        "deep-neural-networks",
+        "label-noise",
+        "noisy-data",
+        "noisy-labels",
+        "robust-learning",
+        "unreliable-labels"
+      ]
     },
     "original_repository_sha": "2a9e6cc6f8d649cb3c92f9a4c72b00c322731f08",
     "enhanced_repository": "enhansome/enhansome-Awesome-Learning-with-Label-Noise",
