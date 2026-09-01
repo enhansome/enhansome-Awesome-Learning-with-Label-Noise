@@ -22,9 +22,9 @@ A curated list of resources for Learning with Noisy Labels
 
 ## Papers & Code
 
-* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,656 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
+* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,661 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
 
-* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,604 | 🐛 1,269 | 🌐 Python | 📅 2026-07-27
+* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,612 | 🐛 1,269 | 🌐 Python | 📅 2026-07-27
 
 * 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,176 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
@@ -200,11 +200,11 @@ A curated list of resources for Learning with Noisy Labels
 
 * 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [\[Paper\]](https://arxiv.org/pdf/2104.08984.pdf) [\[Code\]](https://github.com/arghosh/noisy_label_pretrain) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2021-04-22
 
+* 2022-BMVC - SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise. [\[Paper\]](https://arxiv.org/abs/2111.11288) [\[Code\]](https://github.com/MrChenFeng/SSR_BMVC2022) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2025-03-22
+
 * 2019-Arxiv - IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude's Variance Matters. [\[Paper\]](https://arxiv.org/abs/1903.12141) [\[Project page\]](https://github.com/XinshaoAmosWang/Improving-Mean-Absolute-Error-against-CCE) ⭐ 31 | 🐛 2 | 🌐 Shell | 📅 2020-11-21
 
 * 2020-NIPS - A Topological Filter for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2012.04835.pdf) [\[Code\]](https://github.com/pxiangwu/TopoFilter) ⭐ 31 | 🐛 2 | 🌐 C++ | 📅 2025-04-11
-
-* 2022-BMVC - SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise. [\[Paper\]](https://arxiv.org/abs/2111.11288) [\[Code\]](https://github.com/MrChenFeng/SSR_BMVC2022) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-03-22
 
 * 2020-AAAI - Reinforcement Learning with Perturbed Rewards. [\[Paper\]](https://arxiv.org/abs/1810.01032) [\[Code\]](https://github.com/wangjksjtu/rl-perturbed-reward) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2024-08-02
 
@@ -578,4 +578,4 @@ Some of the above contents are borrowed from [Noisy-Labels-Problem-Collection](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
