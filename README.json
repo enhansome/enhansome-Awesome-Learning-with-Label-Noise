@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:53:17Z",
+            "last_commit": "2026-09-02T22:34:06Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38672,
+            "stars": 38681,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1269,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29616,
+            "stars": 29627,
             "topics": [
               "age-estimation",
               "arcface",
@@ -97,7 +97,7 @@
             "open_issues": 89,
             "owner": "NVIDIA",
             "repo": "semantic-segmentation",
-            "stars": 1828,
+            "stars": 1829,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -3919,7 +3919,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2018-01-09T05:10:49Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "yxu0611",
             "repo": "Tensorflow-implementation-of-LCNN",
             "stars": 78,
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:38:01.485Z",
+    "last_updated": "2026-09-03T00:47:37.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",

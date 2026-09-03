@@ -22,17 +22,17 @@ A curated list of resources for Learning with Noisy Labels
 
 ## Papers & Code
 
-* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,672 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
+* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,681 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-09-02
 
-* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,616 | 🐛 1,269 | 🌐 Python | 📅 2026-07-27
+* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,627 | 🐛 1,269 | 🌐 Python | 📅 2026-07-27
 
 * 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,180 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
-* 2019-CVPR - Improving Semantic Segmentation via Video Propagation and Label Relaxation. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.html) [\[Code\]](https://github.com/NVIDIA/semantic-segmentation) ⭐ 1,828 | 🐛 89 | 🌐 Python | 📅 2021-07-26
+* 2019-CVPR - Improving Semantic Segmentation via Video Propagation and Label Relaxation. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.html) [\[Code\]](https://github.com/NVIDIA/semantic-segmentation) ⭐ 1,829 | 🐛 89 | 🌐 Python | 📅 2021-07-26
 
 * 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [\[Paper\]](https://arxiv.org/abs/1710.09412) [\[Code\]](https://github.com/facebookresearch/mixup-cifar10) ⚠️ Archived
 
-* 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [\[Paper\]](https://arxiv.org/abs/1511.02683) [\[Code-Pytorch\]](https://github.com/AlfredXiangWu/LightCNN) ⭐ 960 | 🐛 3 | 🌐 Python | 📅 2022-02-09 [\[Code-Keras\]](https://github.com/AlfredXiangWu/face_verification_experiment) ⭐ 721 | 🐛 2 | 🌐 Matlab | 📅 2017-02-10 [\[Code-Tensorflow\]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN) ⭐ 78 | 🐛 6 | 🌐 Python | 📅 2018-01-09
+* 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [\[Paper\]](https://arxiv.org/abs/1511.02683) [\[Code-Pytorch\]](https://github.com/AlfredXiangWu/LightCNN) ⭐ 960 | 🐛 3 | 🌐 Python | 📅 2022-02-09 [\[Code-Keras\]](https://github.com/AlfredXiangWu/face_verification_experiment) ⭐ 721 | 🐛 2 | 🌐 Matlab | 📅 2017-02-10 [\[Code-Tensorflow\]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN) ⭐ 78 | 🐛 7 | 🌐 Python | 📅 2018-01-09
 
 * 2020-CVPR - Self-Training With Noisy Student Improves ImageNet Classification. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/noisystudent) ⚠️ Archived
 
@@ -555,7 +555,7 @@ A curated list of resources for Learning with Noisy Labels
 * [Deep Learning with Label Noise](https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature) ⭐ 238 | 🐛 2 | 📅 2021-09-20
 * [Noisy Labels with Jupyter  Notebook](https://github.com/udibr/noisy_labels) ⭐ 119 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2017-04-25
 * [Rankpruning](https://github.com/cgnorthcutt/rankpruning) ⭐ 83 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-05-15
-* [Light CNN for Deep Face Recognition, in Tensorflow](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN) ⭐ 78 | 🐛 6 | 🌐 Python | 📅 2018-01-09
+* [Light CNN for Deep Face Recognition, in Tensorflow](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN) ⭐ 78 | 🐛 7 | 🌐 Python | 📅 2018-01-09
 * [Deep Learning for Segmentation When Experts Disagree with Each Other](https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images) ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2023-04-25
 * [Cleanlab: machine learning python package for learning with noisy labels and finding label errors in datasets](https://github.com/cgnorthcutt/cleanlab) ⭐ 57 | 🐛 0 | 📅 2023-02-01
 * [Multi-tasking Learning With Unreliable Labels](https://github.com/debjitpaul/Multi-tasking_Learning_With_Unreliable_Labels) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2019-06-12
@@ -578,4 +578,4 @@ Some of the above contents are borrowed from [Noisy-Labels-Problem-Collection](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
