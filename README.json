@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T22:34:06Z",
+            "last_commit": "2026-09-03T08:28:07Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38681,
+            "stars": 38689,
             "topics": [
               "ai",
               "machine-learning",
@@ -40,11 +40,11 @@
             "id": 102057483,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-07-27T03:22:16Z",
-            "open_issues": 1269,
+            "last_commit": "2026-09-03T12:19:10Z",
+            "open_issues": 1270,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29627,
+            "stars": 29635,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15180,
+            "stars": 15182,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -2182,34 +2182,6 @@
         },
         {
           "node_type": "item",
-          "title": "2019-Arxiv - IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude's Variance Matters. [Paper]",
-          "description": "[Project page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude’s Variance Matters",
-            "homepage": null,
-            "id": 193940119,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2020-11-21T14:16:31Z",
-            "open_issues": 2,
-            "owner": "XinshaoAmosWang",
-            "repo": "Improving-Mean-Absolute-Error-against-CCE",
-            "stars": 31,
-            "topics": [
-              "category-cross-entropy",
-              "data-fitting",
-              "label-noise",
-              "mean-absolute-error",
-              "outliers",
-              "reweighting-examples"
-            ]
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
           "title": "2020-NIPS - A Topological Filter for Learning with Label Noise. [Paper]",
           "description": "[Code]",
           "children": [],
@@ -2229,6 +2201,34 @@
               "label",
               "neurips-2020",
               "noise"
+            ]
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "2019-Arxiv - IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude's Variance Matters. [Paper]",
+          "description": "[Project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude’s Variance Matters",
+            "homepage": null,
+            "id": 193940119,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2020-11-21T14:16:31Z",
+            "open_issues": 2,
+            "owner": "XinshaoAmosWang",
+            "repo": "Improving-Mean-Absolute-Error-against-CCE",
+            "stars": 30,
+            "topics": [
+              "category-cross-entropy",
+              "data-fitting",
+              "label-noise",
+              "mean-absolute-error",
+              "outliers",
+              "reweighting-examples"
             ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:47:37.448Z",
+    "last_updated": "2026-09-04T00:29:43.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
