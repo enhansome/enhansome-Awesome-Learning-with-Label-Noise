@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T08:28:07Z",
+            "last_commit": "2026-09-07T16:12:34Z",
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38699,
+            "stars": 38709,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1270,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29649,
+            "stars": 29657,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15184,
+            "stars": 15185,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -1211,41 +1211,6 @@
         },
         {
           "node_type": "item",
-          "title": "2017-Arxiv - Learning with confident examples: Rank pruning for robust classification with noisy labels. [Paper]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🧹 Formerly for binary classification with noisy labels. Replaced by cleanlab.",
-            "homepage": "http://auai.org/uai2017/proceedings/papers/35.pdf",
-            "id": 87587727,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2022-05-15T05:21:36Z",
-            "open_issues": 0,
-            "owner": "cgnorthcutt",
-            "repo": "rankpruning",
-            "stars": 83,
-            "topics": [
-              "binary-classification",
-              "denoising",
-              "learning-with-confident-examples",
-              "learning-with-errors",
-              "machine-learning",
-              "machine-learning-algorithms",
-              "mislabeling",
-              "noise-rates",
-              "noisy-learning",
-              "rank-pruning-algorithm",
-              "ranking",
-              "semi-supervised-learning",
-              "training"
-            ]
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
           "title": "2021-TIP - Delving Deep into Label Smoothing. [Paper]",
           "description": "[Code]",
           "children": [],
@@ -1271,6 +1236,41 @@
               "regularization",
               "robustness",
               "tip2021"
+            ]
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "2017-Arxiv - Learning with confident examples: Rank pruning for robust classification with noisy labels. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🧹 Formerly for binary classification with noisy labels. Replaced by cleanlab.",
+            "homepage": "http://auai.org/uai2017/proceedings/papers/35.pdf",
+            "id": 87587727,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2022-05-15T05:21:36Z",
+            "open_issues": 0,
+            "owner": "cgnorthcutt",
+            "repo": "rankpruning",
+            "stars": 82,
+            "topics": [
+              "binary-classification",
+              "denoising",
+              "learning-with-confident-examples",
+              "learning-with-errors",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "mislabeling",
+              "noise-rates",
+              "noisy-learning",
+              "rank-pruning-algorithm",
+              "ranking",
+              "semi-supervised-learning",
+              "training"
             ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -3887,7 +3887,7 @@
             "open_issues": 0,
             "owner": "cgnorthcutt",
             "repo": "rankpruning",
-            "stars": 83,
+            "stars": 82,
             "topics": [
               "binary-classification",
               "denoising",
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:26:01.794Z",
+    "last_updated": "2026-09-08T00:46:45.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
