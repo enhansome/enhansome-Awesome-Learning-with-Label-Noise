@@ -19,7 +19,7 @@
             "open_issues": 1992,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38738,
+            "stars": 38742,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1270,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29706,
+            "stars": 29713,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15192,
+            "stars": 15194,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -1211,37 +1211,6 @@
         },
         {
           "node_type": "item",
-          "title": "2021-TIP - Delving Deep into Label Smoothing. [Paper]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The official code for the paper \"Delving Deep into Label Smoothing\", IEEE TIP 2021",
-            "homepage": "https://arxiv.org/abs/2011.12562",
-            "id": 326705535,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2022-07-06T13:57:02Z",
-            "open_issues": 2,
-            "owner": "zhangchbin",
-            "repo": "OnlineLabelSmoothing",
-            "stars": 83,
-            "topics": [
-              "adversarial-attacks",
-              "classification",
-              "deep-learning",
-              "fine-grained-classification",
-              "noisy-labels",
-              "pytorch",
-              "regularization",
-              "robustness",
-              "tip2021"
-            ]
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
           "title": "2017-Arxiv - Learning with confident examples: Rank pruning for robust classification with noisy labels. [Paper]",
           "description": "[Code]",
           "children": [],
@@ -1271,6 +1240,37 @@
               "ranking",
               "semi-supervised-learning",
               "training"
+            ]
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "2021-TIP - Delving Deep into Label Smoothing. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The official code for the paper \"Delving Deep into Label Smoothing\", IEEE TIP 2021",
+            "homepage": "https://arxiv.org/abs/2011.12562",
+            "id": 326705535,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-07-06T13:57:02Z",
+            "open_issues": 2,
+            "owner": "zhangchbin",
+            "repo": "OnlineLabelSmoothing",
+            "stars": 82,
+            "topics": [
+              "adversarial-attacks",
+              "classification",
+              "deep-learning",
+              "fine-grained-classification",
+              "noisy-labels",
+              "pytorch",
+              "regularization",
+              "robustness",
+              "tip2021"
             ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:45:32.818Z",
+    "last_updated": "2026-09-13T00:28:36.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
