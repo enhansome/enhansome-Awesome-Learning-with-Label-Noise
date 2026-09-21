@@ -19,7 +19,7 @@
             "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38795,
+            "stars": 38806,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1270,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29780,
+            "stars": 29787,
             "topics": [
               "age-estimation",
               "arcface",
@@ -3786,7 +3786,7 @@
             "open_issues": 1,
             "owner": "weijiaheng",
             "repo": "Advances-in-Label-Noise-Learning",
-            "stars": 732,
+            "stars": 733,
             "topics": [
               "conference",
               "deep-learning",
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:28:34.157Z",
+    "last_updated": "2026-09-21T00:38:29.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
