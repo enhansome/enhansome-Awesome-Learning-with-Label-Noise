@@ -19,7 +19,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38823,
+            "stars": 38828,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1270,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29813,
+            "stars": 29827,
             "topics": [
               "age-estimation",
               "arcface",
@@ -3710,7 +3710,7 @@
             "open_issues": 1,
             "owner": "songhwanjun",
             "repo": "Awesome-Noisy-Labels",
-            "stars": 573,
+            "stars": 574,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -3786,7 +3786,7 @@
             "open_issues": 1,
             "owner": "weijiaheng",
             "repo": "Advances-in-Label-Noise-Learning",
-            "stars": 733,
+            "stars": 734,
             "topics": [
               "conference",
               "deep-learning",
@@ -3824,7 +3824,7 @@
             "open_issues": 1,
             "owner": "songhwanjun",
             "repo": "Awesome-Noisy-Labels",
-            "stars": 573,
+            "stars": 574,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:56:46.095Z",
+    "last_updated": "2026-09-25T00:59:13.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
@@ -4103,7 +4103,7 @@
       "open_issues": 3,
       "owner": "subeeshvasu",
       "repo": "Awesome-Learning-with-Label-Noise",
-      "stars": 2713,
+      "stars": 2714,
       "topics": [
         "deep-neural-networks",
         "label-noise",
