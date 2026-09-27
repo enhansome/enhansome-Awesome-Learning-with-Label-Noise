@@ -22,9 +22,9 @@ A curated list of resources for Learning with Noisy Labels
 
 ## Papers & Code
 
-* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,834 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
+* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,832 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
 
-* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,836 | 🐛 1,270 | 🌐 Python | 📅 2026-09-09
+* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,839 | 🐛 1,270 | 🌐 Python | 📅 2026-09-09
 
 * 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,206 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
@@ -208,9 +208,9 @@ A curated list of resources for Learning with Noisy Labels
 
 * 2020-AAAI - Reinforcement Learning with Perturbed Rewards. [\[Paper\]](https://arxiv.org/abs/1810.01032) [\[Code\]](https://github.com/wangjksjtu/rl-perturbed-reward) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2024-08-02
 
-* 2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images. [\[Paper\]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng_Guo_CurriculumNet_Learning_from_ECCV_2018_paper.html) [\[Code\]](https://github.com/guoshengcv/CurriculumNet) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2018-10-09
+* 2020-ICML - Training Binary Neural Networks through Learning with Noisy Supervision. [\[Paperr\]](https://proceedings.icml.cc/static/paper_files/icml/2020/181-Paper.pdf) [\[Code\]](https://github.com/zhaohui-yang/Binary-Neural-Networks) ⭐ 30 | 🐛 3 | 🌐 Python | 📅 2021-02-19
 
-* 2020-ICML - Training Binary Neural Networks through Learning with Noisy Supervision. [\[Paperr\]](https://proceedings.icml.cc/static/paper_files/icml/2020/181-Paper.pdf) [\[Code\]](https://github.com/zhaohui-yang/Binary-Neural-Networks) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2021-02-19
+* 2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images. [\[Paper\]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng_Guo_CurriculumNet_Learning_from_ECCV_2018_paper.html) [\[Code\]](https://github.com/guoshengcv/CurriculumNet) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2018-10-09
 
 * 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation. [\[Paper\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2062_ECCV_2020_paper.php) [\[Code\]](https://github.com/longrongyang/LNCIS) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2021-02-01
 
@@ -578,4 +578,4 @@ Some of the above contents are borrowed from [Noisy-Labels-Problem-Collection](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
