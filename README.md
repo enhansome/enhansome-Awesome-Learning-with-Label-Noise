@@ -22,9 +22,9 @@ A curated list of resources for Learning with Noisy Labels
 
 ## Papers & Code
 
-* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,856 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30
+* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,859 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30
 
-* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,875 | 🐛 1,270 | 🌐 Python | 📅 2026-09-09
+* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,877 | 🐛 1,270 | 🌐 Python | 📅 2026-09-09
 
 * 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,212 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
@@ -52,7 +52,7 @@ A curated list of resources for Learning with Noisy Labels
 
 * 2018-ICML - Learning to Reweight Examples for Robust Deep Learning. [\[Paper\]](https://arxiv.org/abs/1803.09050) [\[Code\]](https://github.com/uber-research/learning-to-reweight-examples) ⭐ 270 | 🐛 9 | 🌐 Python | 📅 2019-03-22 [\[Code-Unofficial-PyTorch\]](https://github.com/danieltan07/learning-to-reweight-examples) ⭐ 355 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2019-05-18
 
-* 2019-CVPR - Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html) [\[Code\]](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection) ⭐ 240 | 🐛 16 | 🌐 Python | 📅 2022-07-26
+* 2019-CVPR - Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html) [\[Code\]](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection) ⭐ 241 | 🐛 16 | 🌐 Python | 📅 2022-07-26
 
 * 2019-ICML - Unsupervised Label Noise Modeling and Loss Correction. [\[Paper\]](https://arxiv.org/abs/1904.11238) [\[Code\]](https://github.com/PaulAlbert31/LabelNoiseCorrection) ⭐ 223 | 🐛 2 | 🌐 Python | 📅 2020-07-30
 
@@ -578,4 +578,4 @@ Some of the above contents are borrowed from [Noisy-Labels-Problem-Collection](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
