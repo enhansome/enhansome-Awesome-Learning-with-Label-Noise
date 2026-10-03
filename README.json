@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "google-research/google-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [Paper]",
-          "description": "[Code]",
+          "description": "deepinsight/insightface",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -44,7 +44,7 @@
             "open_issues": 1269,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29883,
+            "stars": 29884,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15213,
+            "stars": 15212,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -84,7 +84,7 @@
         {
           "node_type": "item",
           "title": "2019-CVPR - Improving Semantic Segmentation via Video Propagation and Label Relaxation. [Paper]",
-          "description": "[Code]",
+          "description": "NVIDIA/semantic-segmentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,7 +105,7 @@
         {
           "node_type": "item",
           "title": "2018-ICLR - mixup: Beyond Empirical Risk Minimization. [Paper]",
-          "description": "[Code]",
+          "description": "facebookresearch/mixup-cifar10",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -151,7 +151,7 @@
         {
           "node_type": "item",
           "title": "2020-CVPR - Self-Training With Noisy Student Improves ImageNet Classification. [Paper]",
-          "description": "[Code]",
+          "description": "google-research/noisystudent",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -172,7 +172,7 @@
         {
           "node_type": "item",
           "title": "2020-ICLR - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [Paper]",
-          "description": "[Code]",
+          "description": "LiJunnan1992/DivideMix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -193,7 +193,7 @@
         {
           "node_type": "item",
           "title": "2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "bhanML/Co-teaching",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,7 +245,7 @@
         {
           "node_type": "item",
           "title": "2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [Paper]",
-          "description": "[Code]",
+          "description": "layumi/Seg-Uncertainty",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -282,7 +282,7 @@
         {
           "node_type": "item",
           "title": "2018-ICML - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. [Paper]",
-          "description": "[Code]",
+          "description": "google/mentornet",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -309,7 +309,7 @@
         {
           "node_type": "item",
           "title": "2020-NIPS - Early-Learning Regularization Prevents Memorization of Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "shengliu66/ELR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,7 +335,7 @@
         {
           "node_type": "item",
           "title": "2019-NIPS - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting.[Paper]",
-          "description": "[Code]",
+          "description": "xjtushujun/meta-weight-net",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -382,7 +382,7 @@
         {
           "node_type": "item",
           "title": "2019-CVPR - Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection. [Paper]",
-          "description": "[Code]",
+          "description": "jx-zhong-for-academic-purpose/GCN-Anomaly-Detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -403,7 +403,7 @@
         {
           "node_type": "item",
           "title": "2019-ICML - Unsupervised Label Noise Modeling and Loss Correction. [Paper]",
-          "description": "[Code]",
+          "description": "PaulAlbert31/LabelNoiseCorrection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +424,7 @@
         {
           "node_type": "item",
           "title": "2022-ICLR - PiCO: Contrastive Label Disambiguation for Partial Label Learning. [Paper]",
-          "description": "[Code]",
+          "description": "hbzju/PiCO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +471,7 @@
         {
           "node_type": "item",
           "title": "2019-ICCV - Symmetric Cross Entropy for Robust Learning With Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "YisenWang/symmetric_cross_entropy_for_noisy_labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -496,7 +496,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Improving Unsupervised Image Clustering With Robust Learning. [Paper]",
-          "description": "[Code]",
+          "description": "deu30303/RUC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -538,7 +538,7 @@
         {
           "node_type": "item",
           "title": "2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "HanxunH/Active-Passive-Losses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -570,7 +570,7 @@
         {
           "node_type": "item",
           "title": "2019-CVPR - Probabilistic End-to-end Noise Correction for Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "yikun2019/PENCIL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -591,7 +591,7 @@
         {
           "node_type": "item",
           "title": "2019-CVPR - Noise-Tolerant Paradigm for Training Face Recognition CNNs. [Paper]",
-          "description": "[Code]",
+          "description": "huangyangyu/NoiseFace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -618,7 +618,7 @@
         {
           "node_type": "item",
           "title": "2020-CVPR - Combating noisy labels by agreement: A joint training method with co-regularization. [Paper]",
-          "description": "[Code]",
+          "description": "hongxin001/JoCoR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -639,7 +639,7 @@
         {
           "node_type": "item",
           "title": "2020-NIPS - Self-Adaptive Training: beyond Empirical Risk Minimization. [Paper]",
-          "description": "[Code]",
+          "description": "LayneH/self-adaptive-training",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -667,7 +667,7 @@
         {
           "node_type": "item",
           "title": "2020-CVPR - Task Agnostic Robust Learning on Corrupt Outputs by Correlation-Guided Mixture Density Networks. [Paper]",
-          "description": "[code]",
+          "description": "sjchoi86/choicenet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -688,7 +688,7 @@
         {
           "node_type": "item",
           "title": "2021-MM - Co-learning: Learning from Noisy Labels with Self-supervision. [Paper]",
-          "description": "[Code]",
+          "description": "chengtan9907/Co-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -722,7 +722,7 @@
         {
           "node_type": "item",
           "title": "2019-CVPR - Learning to Learn from Noisy Labeled Data. [Paper]",
-          "description": "[Code]",
+          "description": "LiJunnan1992/MLNT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -743,7 +743,7 @@
         {
           "node_type": "item",
           "title": "2015-CVPR - Learning from Massive Noisy Labeled Data for Image Classification. [Paper]",
-          "description": "[Code]",
+          "description": "Cysu/noisy_label",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -764,7 +764,7 @@
         {
           "node_type": "item",
           "title": "2017-ICLR - Training deep neural-networks using a noise adaptation layer. [Paper]",
-          "description": "[Code]",
+          "description": "udibr/noisy_labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -785,7 +785,7 @@
         {
           "node_type": "item",
           "title": "2019-NIPS - L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "Newbeeer/L_DMI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,7 +806,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Augmentation Strategies for Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "KentoNishi/Augmentation-for-LNL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -839,7 +839,7 @@
         {
           "node_type": "item",
           "title": "2019-ICCV - NLNL: Negative Learning for Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "ydkim1293/NLNL-Negative-Learning-for-Noisy-Labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -865,7 +865,7 @@
         {
           "node_type": "item",
           "title": "2019-ICML - Using Pre-Training Can Improve Model Robustness and Uncertainty. [Paper]",
-          "description": "[Code]",
+          "description": "hendrycks/pre-training",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -937,7 +937,7 @@
         {
           "node_type": "item",
           "title": "2019-ICASSP - Learning Sound Event Classifiers from Web Audio with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "edufonseca/icassp19",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -958,7 +958,7 @@
         {
           "node_type": "item",
           "title": "2019-NIPS - Are Anchor Points Really Indispensable in Label-Noise Learning?. [Paper]",
-          "description": "[Code]",
+          "description": "xiaoboxia/T-Revision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -979,7 +979,7 @@
         {
           "node_type": "item",
           "title": "2019-CVPR - Label-Noise Robust Generative Adversarial Networks. [Paper]",
-          "description": "[Code]",
+          "description": "takuhirok/rGAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1000,7 +1000,7 @@
         {
           "node_type": "item",
           "title": "2022-CVPR - Selective-Supervised Contrastive Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "ShikunLi/Sel-CL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1021,7 +1021,7 @@
         {
           "node_type": "item",
           "title": "2022-CVPR - Adaptive Early-Learning Correction for Segmentation from Noisy Annotations. [Paper]",
-          "description": "[Code]",
+          "description": "Kangningthu/ADELE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1070,7 +1070,7 @@
         {
           "node_type": "item",
           "title": "2017-CVPR - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach. [Paper]",
-          "description": "[Code]",
+          "description": "giorgiop/loss-correction",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1091,7 +1091,7 @@
         {
           "node_type": "item",
           "title": "2019-ICML - Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "chenpf1025/noisy_label_understanding_utilizing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1116,7 +1116,7 @@
         {
           "node_type": "item",
           "title": "2018-NIPS - Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise. [Paper]",
-          "description": "[Code]",
+          "description": "mmazeika/glc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1137,7 +1137,7 @@
         {
           "node_type": "item",
           "title": "2018-CVPR - CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "kuanghuei/clean-net",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1165,7 +1165,7 @@
         {
           "node_type": "item",
           "title": "2021-ICLR - MoPro: Webly Supervised Learning with Momentum Prototypes. [Paper]",
-          "description": "[Code]",
+          "description": "salesforce/MoPro",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1191,7 +1191,7 @@
         {
           "node_type": "item",
           "title": "2021-AAAI - Meta Label Correction for Noisy Label Learning. [Paper]",
-          "description": "[Code]",
+          "description": "microsoft/MLC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1212,7 +1212,7 @@
         {
           "node_type": "item",
           "title": "2017-Arxiv - Learning with confident examples: Rank pruning for robust classification with noisy labels. [Paper]",
-          "description": "[Code]",
+          "description": "cgnorthcutt/rankpruning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1247,7 +1247,7 @@
         {
           "node_type": "item",
           "title": "2021-TIP - Delving Deep into Label Smoothing. [Paper]",
-          "description": "[Code]",
+          "description": "zhangchbin/OnlineLabelSmoothing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1278,7 +1278,7 @@
         {
           "node_type": "item",
           "title": "2022-CVPR - Large-Scale Pre-training for Person Re-identification with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "DengpanFu/LUPerson-NL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1299,7 +1299,7 @@
         {
           "node_type": "item",
           "title": "2019-ICCV - O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks.[Paper]",
-          "description": "[Code]",
+          "description": "hjimce/O2U-Net",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1320,7 +1320,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation. [Paper]",
-          "description": "[Code]",
+          "description": "cvlab-yonsei/BANA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1341,7 +1341,7 @@
         {
           "node_type": "item",
           "title": "2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [Paper]",
-          "description": "[Code]",
+          "description": "xiaoboxia/CDR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1362,7 +1362,7 @@
         {
           "node_type": "item",
           "title": "2024-CVPR - SURE: SUrvey REcipes for building reliable and robust deep networks [Paper]",
-          "description": "[Code]",
+          "description": "Intellindust-AI-Lab/SURE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1390,7 +1390,7 @@
         {
           "node_type": "item",
           "title": "2020-NIPS - Disentangling Human Error from the Ground Truth in Segmentation of Medical Images. [Paper]",
-          "description": "[Code]",
+          "description": "moucheng2017/Med-Noisy-Labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1414,7 +1414,7 @@
         {
           "node_type": "item",
           "title": "2020-Arxiv - Contrast to Divide: self-supervised pre-training for learning with noisy labels. [Paper]",
-          "description": "[Code]",
+          "description": "ContrastToDivide/C2D",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1441,7 +1441,7 @@
         {
           "node_type": "item",
           "title": "2020-CVPR - Noise Robust Generative Adversarial Networks. [Paper]",
-          "description": "[Code]",
+          "description": "takuhirok/NR-GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1483,7 +1483,7 @@
         {
           "node_type": "item",
           "title": "2020-AAAI - Less Is Better: Unweighted Data Subsampling via Influence Function. [Paper]",
-          "description": "[Code]",
+          "description": "RyanWangZf/Influence_Subsampling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1512,7 +1512,7 @@
         {
           "node_type": "item",
           "title": "2022-CVPR - UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning. [Paper]",
-          "description": "[Code]",
+          "description": "nazmul-karim170/UNICON",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1542,7 +1542,7 @@
         {
           "node_type": "item",
           "title": "2020-NIPS - Parts-dependent Label Noise: Towards Instance-dependent Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "xiaoboxia/Part-dependent-label-noise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1563,7 +1563,7 @@
         {
           "node_type": "item",
           "title": "2019-ICML - Combating Label Noise in Deep Learning Using Abstention. [Paper]",
-          "description": "[Code]",
+          "description": "thulas/dac-label-noise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1584,7 +1584,7 @@
         {
           "node_type": "item",
           "title": "2020-Arxiv - ProSelfLC: Progressive Self Label Correction for Training Robust Deep Neural Networks. [Paper]",
-          "description": "[Code]",
+          "description": "XinshaoAmosWang/ProSelfLC-AT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1613,7 +1613,7 @@
         {
           "node_type": "item",
           "title": "2018-ICML - Dimensionality-Driven Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "xingjunm/dimensionality-driven-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1634,7 +1634,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification. [Paper]",
-          "description": "[Code]",
+          "description": "FlyingRoastDuck/MetaCam_DSCE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1655,7 +1655,7 @@
         {
           "node_type": "item",
           "title": "2019-Arxiv - Confident Learning: Estimating Uncertainty in Dataset Labels. [Paper]",
-          "description": "[Code]",
+          "description": "cgnorthcutt/cleanlab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1676,7 +1676,7 @@
         {
           "node_type": "item",
           "title": "2018-NIPS - Masking: A New Perspective of Noisy Supervision. [Paper]",
-          "description": "[Code]",
+          "description": "bhanML/Masking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1697,7 +1697,7 @@
         {
           "node_type": "item",
           "title": "2019-ICML - SELFIE: Refurbishing unclean samples for robust deep learning. [Paper]",
-          "description": "[Code]",
+          "description": "kaist-dmlab/SELFIE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1718,7 +1718,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Partially View-aligned Representation Learning with Noise-robust Contrastive Loss. [Paper]",
-          "description": "[Code]",
+          "description": "XLearning-SCU/2021-CVPR-MvCLN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1743,7 +1743,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPRW - Boosting Co-teaching with Compression Regularization for Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "yingyichen-cyy/Nested-Co-teaching",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1769,7 +1769,7 @@
         {
           "node_type": "item",
           "title": "2020-ICLR - Learning from Rules Generalizing Labeled Exemplars. [Paper]",
-          "description": "[Code]",
+          "description": "awasthiabhijeet/Learning-From-Rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1800,7 +1800,7 @@
         {
           "node_type": "item",
           "title": "2021-ICLR - Learning with Feature-Dependent Label Noise: A Progressive Approach. [Paper]",
-          "description": "[Code]",
+          "description": "pxiangwu/PLC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1847,7 +1847,7 @@
         {
           "node_type": "item",
           "title": "2022-CVPR - Few-shot Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "facebookresearch/noisy_few_shot",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1868,7 +1868,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - A Second-Order Approach to Learning with Instance-Dependent Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "UCSC-REAL/CAL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1889,7 +1889,7 @@
         {
           "node_type": "item",
           "title": "2021-NIPS - FINE Samples for Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "Kthyeon/FINE_official",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1916,7 +1916,7 @@
         {
           "node_type": "item",
           "title": "2018-NIPS - Robustness of conditional GANs to noisy labels. [Paper]",
-          "description": "[Code]",
+          "description": "tkkiran/Robust-Conditional-GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1937,7 +1937,7 @@
         {
           "node_type": "item",
           "title": "2015-TPAMI - Classification with noisy labels by importance reweighting. [Paper]",
-          "description": "[Code]",
+          "description": "xiaoboxia/Classification-with-noisy-labels-by-importance-reweighting",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1958,7 +1958,7 @@
         {
           "node_type": "item",
           "title": "2020-ICML - Improving Generalization by Controlling Label-Noise Information in Neural Network Weights. [Paper]",
-          "description": "[Code]",
+          "description": "hrayrhar/limit-label-memorization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1984,7 +1984,7 @@
         {
           "node_type": "item",
           "title": "2020-NIPS - Coresets for Robust Training of Neural Networks against Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "snap-stanford/crust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2005,7 +2005,7 @@
         {
           "node_type": "item",
           "title": "2021-AAAI - Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "chenpf1025/IDN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2033,7 +2033,7 @@
         {
           "node_type": "item",
           "title": "2022-WSDM - Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels. [Paper]",
-          "description": "[Code]",
+          "description": "EnyanDai/RSGNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2059,7 +2059,7 @@
         {
           "node_type": "item",
           "title": "2019-ICCV - Deep Self-Learning From Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "sarsbug/SMP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2080,7 +2080,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Noise-resistant Deep Metric Learning with Ranking-based Instance Selection. [Paper]",
-          "description": "[Code]",
+          "description": "alibaba-edu/Ranking-based-Instance-Selection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2101,7 +2101,7 @@
         {
           "node_type": "item",
           "title": "2022-CVPR - Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification. [Paper]",
-          "description": "[Code]",
+          "description": "XLearning-SCU/2022-CVPR-DART",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2126,7 +2126,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "arghosh/noisy_label_pretrain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2154,7 +2154,7 @@
         {
           "node_type": "item",
           "title": "2022-BMVC - SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "MrChenFeng/SSR_BMVC2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2183,7 +2183,7 @@
         {
           "node_type": "item",
           "title": "2020-NIPS - A Topological Filter for Learning with Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "pxiangwu/TopoFilter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2236,7 +2236,7 @@
         {
           "node_type": "item",
           "title": "2020-AAAI - Reinforcement Learning with Perturbed Rewards. [Paper]",
-          "description": "[Code]",
+          "description": "wangjksjtu/rl-perturbed-reward",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2264,7 +2264,7 @@
         {
           "node_type": "item",
           "title": "2020-ICML - Training Binary Neural Networks through Learning with Noisy Supervision. [Paperr]",
-          "description": "[Code]",
+          "description": "zhaohui-yang/Binary-Neural-Networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2289,7 +2289,7 @@
         {
           "node_type": "item",
           "title": "2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images. [Paper]",
-          "description": "[Code]",
+          "description": "guoshengcv/CurriculumNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2310,7 +2310,7 @@
         {
           "node_type": "item",
           "title": "2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation. [Paper]",
-          "description": "[Code]",
+          "description": "longrongyang/LNCIS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2331,7 +2331,7 @@
         {
           "node_type": "item",
           "title": "2020-MICCAI - Characterizing Label Errors: Confident Learning for Noisy-labeled Image Segmentation. [Paper]",
-          "description": "[Code]",
+          "description": "502463708/Confident_Learning_for_Noisy-labeled_Medical_Image_Segmentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2373,7 +2373,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Faster Meta Update Strategy for Noise-Robust Deep Learning. [Paper]",
-          "description": "[Code]",
+          "description": "youjiangxu/FaMUS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2394,7 +2394,7 @@
         {
           "node_type": "item",
           "title": "2020-CVPR - Learning From Noisy Anchors for One-Stage Object Detection. [Paper]",
-          "description": "[Code]",
+          "description": "henrylee2570/NoisyAnchor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2415,7 +2415,7 @@
         {
           "node_type": "item",
           "title": "2020-CVPR - Noise-Aware Fully Webly Supervised Object Detection. [Paper]",
-          "description": "[Code]",
+          "description": "shenyunhang/NA-fWebSOD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2442,7 +2442,7 @@
         {
           "node_type": "item",
           "title": "2008-NIPS - Whose vote should count more: Optimal integration of labels from labelers of unknown expertise. [Paper]",
-          "description": "[Code]",
+          "description": "notani/python-glad",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2463,7 +2463,7 @@
         {
           "node_type": "item",
           "title": "2019-TGRS - Hyperspectral Image Classification in the Presence of Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "junjun-jiang/RLPA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2484,7 +2484,7 @@
         {
           "node_type": "item",
           "title": "2020-ICML - Error-Bounded Correction of Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "pingqingsheng/LRT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2505,7 +2505,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - AutoDO: Robust AutoAugment for Biased Data With Label Noise via Scalable Probabilistic Implicit Differentiation. [Paper]",
-          "description": "[Code]",
+          "description": "gudovskiy/autodo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2530,7 +2530,7 @@
         {
           "node_type": "item",
           "title": "2022-ICML - From Noisy Prediction to True Label: Noisy Prediction Calibration via Generative Model. [Paper]",
-          "description": "[Code]",
+          "description": "BaeHeeSun/NPC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2551,7 +2551,7 @@
         {
           "node_type": "item",
           "title": "2016-CVPR - Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels. [Paper]",
-          "description": "[Code]",
+          "description": "imisra/latent-noise-icnm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2572,7 +2572,7 @@
         {
           "node_type": "item",
           "title": "2020-ICML - Searching to Exploit Memorization Effect in Learning from Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "LARS-research/S2E",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2596,7 +2596,7 @@
         {
           "node_type": "item",
           "title": "2020-NIPS - Identifying Mislabeled Data using the Area Under the Margin Ranking. [Paper]",
-          "description": "[Code]",
+          "description": "Manuscrit/Area-Under-the-Margin-Ranking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2625,7 +2625,7 @@
         {
           "node_type": "item",
           "title": "2021-AAAI - Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "chenpf1025/RobustnessAccuracy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2654,7 +2654,7 @@
         {
           "node_type": "item",
           "title": "2017-ICCV - Learning From Noisy Labels With Distillation. [Paper]",
-          "description": "[Code]",
+          "description": "raingo/yfcc100m-entity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2675,7 +2675,7 @@
         {
           "node_type": "item",
           "title": "2017-NIPS - Decoupling\" when to update\" from\" how to update\". [Paper]",
-          "description": "[Code]",
+          "description": "emalach/UpdateByDisagreement",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2696,7 +2696,7 @@
         {
           "node_type": "item",
           "title": "2019-ICML - How does Disagreement Help Generalization against Label Corruption?. [Paper]",
-          "description": "[Code]",
+          "description": "bhanML/coteaching_plus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2717,7 +2717,7 @@
         {
           "node_type": "item",
           "title": "2020-ECCV - Graph convolutional networks for learning with few clean and many noisy labels. [Paper]",
-          "description": "[Code]",
+          "description": "google-research/noisy-fewshot-learning",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2738,7 +2738,7 @@
         {
           "node_type": "item",
           "title": "2013-NIPS - Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "jamie2017/LearningWithNoisyLabels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2759,7 +2759,7 @@
         {
           "node_type": "item",
           "title": "2020-ICPR - Meta Soft Label Generation for Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "gorkemalgan/MSLG_noisy_label",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2780,7 +2780,7 @@
         {
           "node_type": "item",
           "title": "2017-NIPS - Active bias: Training more accurate neural networks by emphasizing high variance samples. [Paper]",
-          "description": "[Code]",
+          "description": "songhwanjun/ActiveBias",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2801,7 +2801,7 @@
         {
           "node_type": "item",
           "title": "2020-CVPR - Training Noise-Robust Deep Neural Networks via Meta-Learning. [Paper]",
-          "description": "[Code]",
+          "description": "ZhenWang-PhD/Training-Noise-Robust-Deep-Neural-Networks-via-Meta-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2822,7 +2822,7 @@
         {
           "node_type": "item",
           "title": "2022-CVPR - Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "Yikai-Wang/SPR-LNL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2864,7 +2864,7 @@
         {
           "node_type": "item",
           "title": "2020-ICML - Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "LJY-HY/MentorMix_pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2892,7 +2892,7 @@
         {
           "node_type": "item",
           "title": "2020-ICML - SIGUA: Forgetting May Make Learning with Noisy Labels More Robust. [Paper]",
-          "description": "[Code]",
+          "description": "bhanML/SIGUA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2913,7 +2913,7 @@
         {
           "node_type": "item",
           "title": "2015-ICLR_W - Training Convolutional Networks with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "tesatory/convnet-noisy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2934,7 +2934,7 @@
         {
           "node_type": "item",
           "title": "2019-ICLR_W - SOSELETO: A Unified Approach to Transfer Learning and Training with Noisy Labels.[Paper]",
-          "description": "[Code]",
+          "description": "orlitany/SOSELETO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2955,7 +2955,7 @@
         {
           "node_type": "item",
           "title": "2021-AAAI - From Label Smoothing to Label Relaxation. [Paper]",
-          "description": "[Code]",
+          "description": "julilien/LabelRelaxation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2986,7 +2986,7 @@
         {
           "node_type": "item",
           "title": "2020-ICLR - Can gradient clipping mitigate label noise?. [Paper]",
-          "description": "[Code]",
+          "description": "dmizr/phuber",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3012,7 +3012,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Learning an Explicit Weighting Scheme for Adapting Complex HSI Noise. [Paper]",
-          "description": "[Code]",
+          "description": "xyrui/HWnet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3033,7 +3033,7 @@
         {
           "node_type": "item",
           "title": "2022-NIPS - MVP-N: A Dataset and Benchmark for Real-World Multi-View Object Classification. [Paper]",
-          "description": "[Code]",
+          "description": "SMNUResearch/MVP-N",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3054,7 +3054,7 @@
         {
           "node_type": "item",
           "title": "2016-ICDM - Learning deep networks from noisy labels with dropout regularization. [Paper]",
-          "description": "[Code]",
+          "description": "ijindal/Noisy_Dropout_regularization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3075,7 +3075,7 @@
         {
           "node_type": "item",
           "title": "2018-ECCV - Deep Bilevel Learning. [Paper]",
-          "description": "[Code]",
+          "description": "sjenni/DeepBilevel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3106,7 +3106,7 @@
         {
           "node_type": "item",
           "title": "2019-NIPS - Combinatorial Inference against Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "geehokim/Combinatorial-Inference",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3127,7 +3127,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Divergence Optimization for Noisy Universal Domain Adaptation. [Paper]",
-          "description": "[Code]",
+          "description": "YU1ut/Divergence-Optimization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3148,7 +3148,7 @@
         {
           "node_type": "item",
           "title": "2019-Arxiv - Derivative Manipulation for General Example Weighting. [Paper]",
-          "description": "[Code]",
+          "description": "XinshaoAmosWang/DerivativeManipulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3197,7 +3197,7 @@
         {
           "node_type": "item",
           "title": "2020-ECCV - Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection. [Paper]",
-          "description": "[Code]",
+          "description": "JingZhang617/Noise-aware-ABP-Saliency",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3218,7 +3218,7 @@
         {
           "node_type": "item",
           "title": "2020-Arxiv - Confidence Scores Make Instance-dependent Label-noise Learning Possible. [Paper]",
-          "description": "[Code]",
+          "description": "antoninbrthn/CSIDN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3239,7 +3239,7 @@
         {
           "node_type": "item",
           "title": "2021-ECML - Estimating the Electrical Power Output of Industrial Devices with End-to-End Time-Series Classification in the Presence of Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "Castel44/SREA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3266,7 +3266,7 @@
         {
           "node_type": "item",
           "title": "2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [Paper]",
-          "description": "[Code]",
+          "description": "dbp1994/bare-wacv-2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3308,7 +3308,7 @@
         {
           "node_type": "item",
           "title": "2017-ICML - Robust Probabilistic Modeling with Bayesian Data Reweighting. [Paper]",
-          "description": "[Code]",
+          "description": "yixinwang/robust-rpm-public",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3329,7 +3329,7 @@
         {
           "node_type": "item",
           "title": "2021-WACV - Do We Really Need Gold Samples for Sample Weighting Under Label Noise? [Paper]",
-          "description": "[Code]",
+          "description": "arghosh/RobustMW-Net",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3355,7 +3355,7 @@
         {
           "node_type": "item",
           "title": "2021-CVPR - Jo-SRC: A Contrastive Approach for Combating Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "NUST-Machine-Intelligence-Laboratory/Jo-SRC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3376,7 +3376,7 @@
         {
           "node_type": "item",
           "title": "2016-ICLR - Auxiliary Image Regularization for Deep CNNs with Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "azadis/AIR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3397,7 +3397,7 @@
         {
           "node_type": "item",
           "title": "2017-CVPR - Lean crowdsourcing: Combining humans and machines in an online system. [Paper]",
-          "description": "[Code]",
+          "description": "sbranson/online_crowdsourcing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3418,7 +3418,7 @@
         {
           "node_type": "item",
           "title": "2019-IJCAI - Learning Sound Events from Webly Labeled Data. [Paper]",
-          "description": "[Code]",
+          "description": "anuragkr90/webly-labeled-sounds",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3439,7 +3439,7 @@
         {
           "node_type": "item",
           "title": "2020-NIPS - Robust Optimization for Fairness with Noisy Protected Groups. [Paper]",
-          "description": "[Code]",
+          "description": "wenshuoguo/robust-fairness-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3460,7 +3460,7 @@
         {
           "node_type": "item",
           "title": "2021-PAKDD - Memorization in Deep Neural Networks: Does the Loss Function Matter? [Paper]",
-          "description": "[Code]",
+          "description": "dbp1994/masters_thesis_codes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3481,7 +3481,7 @@
         {
           "node_type": "item",
           "title": "2023-WACV - Bootstrapping the Relationship Between Images and Their Clean and Noisy Labels. [Paper]",
-          "description": "[Code]",
+          "description": "btsmart/bootstrapping-label-noise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3523,7 +3523,7 @@
         {
           "node_type": "item",
           "title": "2017-ICLR - Who Said What: Modeling Individual Labelers Improves Classification. [Paper]",
-          "description": "[Code]",
+          "description": "seunghyukcho/doctornet-pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3544,7 +3544,7 @@
         {
           "node_type": "item",
           "title": "2019-NIPS - Noise-tolerant fair classification. [Paper]",
-          "description": "[Code]",
+          "description": "AIasd/noise_fairlearn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3586,7 +3586,7 @@
         {
           "node_type": "item",
           "title": "2022-AAAI - Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation. [Paper]",
-          "description": "[Code]",
+          "description": "YaoruLuo/Meta-Structures-for-DNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3607,7 +3607,7 @@
         {
           "node_type": "item",
           "title": "2017-ML - Learning to Learn from Weak Supervision by Full Supervision. [Paper]",
-          "description": "[Code]",
+          "description": "krayush07/learn-by-weak-supervision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3628,7 +3628,7 @@
         {
           "node_type": "item",
           "title": "2017-CVPR - Attend in groups: a weakly-supervised deep learning framework for learning from web data. [Paper]",
-          "description": "[Code]",
+          "description": "bohanzhuang/Attend-in-Groups-a-Weakly-supervised-Deep-Learning-Framework-for-Learning-from-Web-Data",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3649,7 +3649,7 @@
         {
           "node_type": "item",
           "title": "2015 - Learning Discriminative Reconstructions for Unsupervised Outlier Removal. [Paper]",
-          "description": "[Code]",
+          "description": "ClearMoonlight/SoCG_2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3718,7 +3718,7 @@
         {
           "node_type": "item",
           "title": "2020-SIBGRAPI - A Survey on Deep Learning with Noisy Labels:How to train your model when you cannot trust on the annotations?. [Paper]",
-          "description": "[Code]",
+          "description": "filipe-research/tutorial_noisylabels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3739,7 +3739,7 @@
         {
           "node_type": "item",
           "title": "2024-TMLR - Mislabeled examples detection viewed as probing machine learning models: concepts, survey and extensive benchmark [Paper]",
-          "description": "[Code]",
+          "description": "Orange-OpenSource/mislabeled",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3773,7 +3773,7 @@
         {
           "node_type": "item",
           "title": "Advances-in-Label-Noise-Learning",
-          "description": null,
+          "description": "weijiaheng/Advances-in-Label-Noise-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3811,7 +3811,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Noisy-Labels",
-          "description": null,
+          "description": "songhwanjun/Awesome-Noisy-Labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3832,7 +3832,7 @@
         {
           "node_type": "item",
           "title": "Deep Learning with Label Noise",
-          "description": null,
+          "description": "gorkemalgan/deep_learning_with_noisy_labels_literature",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3853,7 +3853,7 @@
         {
           "node_type": "item",
           "title": "Noisy Labels with Jupyter Notebook",
-          "description": null,
+          "description": "udibr/noisy_labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3874,7 +3874,7 @@
         {
           "node_type": "item",
           "title": "Rankpruning",
-          "description": null,
+          "description": "cgnorthcutt/rankpruning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3909,7 +3909,7 @@
         {
           "node_type": "item",
           "title": "Light CNN for Deep Face Recognition, in Tensorflow",
-          "description": null,
+          "description": "yxu0611/Tensorflow-implementation-of-LCNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3935,7 +3935,7 @@
         {
           "node_type": "item",
           "title": "Deep Learning for Segmentation When Experts Disagree with Each Other",
-          "description": null,
+          "description": "moucheng2017/Med-Noisy-Labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3959,7 +3959,7 @@
         {
           "node_type": "item",
           "title": "Cleanlab: machine learning python package for learning with noisy labels and finding label errors in datasets",
-          "description": null,
+          "description": "cgnorthcutt/cleanlab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3980,7 +3980,7 @@
         {
           "node_type": "item",
           "title": "Multi-tasking Learning With Unreliable Labels",
-          "description": null,
+          "description": "uds-lsv/Multi-tasking_Learning_With_Unreliable_Labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4005,7 +4005,7 @@
         {
           "node_type": "item",
           "title": "Keras-noisy-lables-finetune",
-          "description": null,
+          "description": "delchiaro/training-cnn-noisy-labels-keras",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4026,7 +4026,7 @@
         {
           "node_type": "item",
           "title": "Fair classification with group label noise",
-          "description": null,
+          "description": "wenshuoguo/robust-fairness-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4047,7 +4047,7 @@
         {
           "node_type": "item",
           "title": "Noisy Label Neural Network2-Chainer",
-          "description": null,
+          "description": "Ryo-Ito/Noisy-Labels-Neural-Network",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4068,7 +4068,7 @@
         {
           "node_type": "item",
           "title": "Noisy Label Neural Network1-Tensorflow",
-          "description": null,
+          "description": "vdenberg/noisy-label-neural-network",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:30:43.221Z",
+    "last_updated": "2026-10-03T04:26:25.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
