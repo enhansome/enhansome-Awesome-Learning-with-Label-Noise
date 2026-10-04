@@ -19,7 +19,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38862,
+            "stars": 38868,
             "topics": [
               "ai",
               "machine-learning",
@@ -40,11 +40,11 @@
             "id": 102057483,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-09T11:36:18Z",
-            "open_issues": 1269,
+            "last_commit": "2026-10-03T15:38:32Z",
+            "open_issues": 1270,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29884,
+            "stars": 29889,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15212,
+            "stars": 15211,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -1164,6 +1164,27 @@
         },
         {
           "node_type": "item",
+          "title": "2021-AAAI - Meta Label Correction for Noisy Label Learning. [Paper]",
+          "description": "microsoft/MLC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Meta Label Correction for Noisy Label Learning",
+            "homepage": null,
+            "id": 335071333,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-09-28T17:27:26Z",
+            "open_issues": 5,
+            "owner": "microsoft",
+            "repo": "MLC",
+            "stars": 87,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
           "title": "2021-ICLR - MoPro: Webly Supervised Learning with Momentum Prototypes. [Paper]",
           "description": "salesforce/MoPro",
           "children": [],
@@ -1185,27 +1206,6 @@
               "weakly-supervised-learning",
               "webly-supervised-learning"
             ]
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
-          "title": "2021-AAAI - Meta Label Correction for Noisy Label Learning. [Paper]",
-          "description": "microsoft/MLC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Meta Label Correction for Noisy Label Learning",
-            "homepage": null,
-            "id": 335071333,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2022-09-28T17:27:26Z",
-            "open_issues": 5,
-            "owner": "microsoft",
-            "repo": "MLC",
-            "stars": 86,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -3786,7 +3786,7 @@
             "open_issues": 1,
             "owner": "weijiaheng",
             "repo": "Advances-in-Label-Noise-Learning",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "conference",
               "deep-learning",
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:25.388Z",
+    "last_updated": "2026-10-04T02:12:20.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
