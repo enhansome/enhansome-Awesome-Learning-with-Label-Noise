@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T21:03:49Z",
+            "last_commit": "2026-10-07T21:04:37Z",
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38879,
+            "stars": 38880,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1270,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29905,
+            "stars": 29907,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15216,
+            "stars": 15219,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -164,7 +164,7 @@
             "open_issues": 8,
             "owner": "google-research",
             "repo": "noisystudent",
-            "stars": 762,
+            "stars": 761,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -2954,6 +2954,32 @@
         },
         {
           "node_type": "item",
+          "title": "2020-ICLR - Can gradient clipping mitigate label noise?. [Paper]",
+          "description": "dmizr/phuber",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[Re] Can gradient clipping mitigate label noise? (ML Reproducibility Challenge 2020)",
+            "homepage": "https://openreview.net/forum?id=TM_SgwWJA23",
+            "id": 312299498,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-09-03T02:33:42Z",
+            "open_issues": 0,
+            "owner": "dmizr",
+            "repo": "phuber",
+            "stars": 15,
+            "topics": [
+              "gradient-clipping",
+              "label-noise",
+              "pytorch",
+              "robust-learning"
+            ]
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
           "title": "2021-AAAI - From Label Smoothing to Label Relaxation. [Paper]",
           "description": "julilien/LabelRelaxation",
           "children": [],
@@ -2979,32 +3005,6 @@
               "machine-learning",
               "regularization",
               "weakly-supervised-learning"
-            ]
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
-          "title": "2020-ICLR - Can gradient clipping mitigate label noise?. [Paper]",
-          "description": "dmizr/phuber",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[Re] Can gradient clipping mitigate label noise? (ML Reproducibility Challenge 2020)",
-            "homepage": "https://openreview.net/forum?id=TM_SgwWJA23",
-            "id": 312299498,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-09-03T02:33:42Z",
-            "open_issues": 0,
-            "owner": "dmizr",
-            "repo": "phuber",
-            "stars": 14,
-            "topics": [
-              "gradient-clipping",
-              "label-noise",
-              "pytorch",
-              "robust-learning"
             ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:52:36.933Z",
+    "last_updated": "2026-10-08T02:20:18.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
