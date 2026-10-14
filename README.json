@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T13:39:16Z",
+            "last_commit": "2026-10-13T06:27:55Z",
             "open_issues": 2005,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38903,
+            "stars": 38909,
             "topics": [
               "ai",
               "machine-learning",
@@ -41,10 +41,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-04T12:46:41Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29944,
+            "stars": 29950,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15231,
+            "stars": 15232,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:15:13.160Z",
+    "last_updated": "2026-10-14T01:27:42.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
