@@ -22,11 +22,11 @@ A curated list of resources for Learning with Noisy Labels
 
 ## Papers & Code
 
-* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,909 | 🐛 2,005 | 🌐 Jupyter Notebook | 📅 2026-10-13
+* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 38,915 | 🐛 2,005 | 🌐 Jupyter Notebook | 📅 2026-10-14
 
-* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,950 | 🐛 1,271 | 🌐 Python | 📅 2026-10-04
+* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 29,968 | 🐛 1,272 | 🌐 Python | 📅 2026-10-04
 
-* 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,232 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
+* 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,233 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
 * 2019-CVPR - Improving Semantic Segmentation via Video Propagation and Label Relaxation. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.html) [\[Code\]](https://github.com/NVIDIA/semantic-segmentation) ⭐ 1,832 | 🐛 89 | 🌐 Python | 📅 2021-07-26
 
@@ -138,7 +138,7 @@ A curated list of resources for Learning with Noisy Labels
 
 * 2020-NIPS - Disentangling Human Error from the Ground Truth in Segmentation of Medical Images. [\[Paper\]](https://arxiv.org/abs/2007.15963) [\[Code\]](https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images) ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2023-04-25
 
-* 2020-Arxiv - Contrast to Divide: self-supervised pre-training for learning with noisy labels. [\[Paper\]](https://openreview.net/forum?id=uB5x7Y2qsFR) [\[Code\]](https://github.com/ContrastToDivide/C2D) ⭐ 70 | 🐛 7 | 🌐 Python | 📅 2021-03-30
+* 2020-Arxiv - Contrast to Divide: self-supervised pre-training for learning with noisy labels. [\[Paper\]](https://openreview.net/forum?id=uB5x7Y2qsFR) [\[Code\]](https://github.com/ContrastToDivide/C2D) ⭐ 69 | 🐛 7 | 🌐 Python | 📅 2021-03-30
 
 * 2020-CVPR - Noise Robust Generative Adversarial Networks. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Kaneko_Noise_Robust_Generative_Adversarial_Networks_CVPR_2020_paper.html) [\[Code\]](https://github.com/takuhirok/NR-GAN/) ⭐ 65 | 🐛 3 | 🌐 Python | 📅 2023-10-03
 
@@ -578,4 +578,4 @@ Some of the above contents are borrowed from [Noisy-Labels-Problem-Collection](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

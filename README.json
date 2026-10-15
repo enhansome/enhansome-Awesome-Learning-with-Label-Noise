@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:27:55Z",
+            "last_commit": "2026-10-14T21:40:54Z",
             "open_issues": 2005,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38909,
+            "stars": 38915,
             "topics": [
               "ai",
               "machine-learning",
@@ -41,10 +41,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-04T12:46:41Z",
-            "open_issues": 1271,
+            "open_issues": 1272,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29950,
+            "stars": 29968,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15232,
+            "stars": 15233,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -1427,7 +1427,7 @@
             "open_issues": 7,
             "owner": "ContrastToDivide",
             "repo": "C2D",
-            "stars": 70,
+            "stars": 69,
             "topics": [
               "cifar-10",
               "clothing1m",
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:27:42.422Z",
+    "last_updated": "2026-10-15T01:02:02.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
