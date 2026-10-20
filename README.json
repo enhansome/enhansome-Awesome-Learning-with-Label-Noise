@@ -19,7 +19,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38947,
+            "stars": 38964,
             "topics": [
               "ai",
               "machine-learning",
@@ -40,11 +40,11 @@
             "id": 102057483,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-04T12:46:41Z",
-            "open_issues": 1275,
+            "last_commit": "2026-10-19T07:54:01Z",
+            "open_issues": 1276,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29987,
+            "stars": 29999,
             "topics": [
               "age-estimation",
               "arcface",
@@ -97,7 +97,7 @@
             "open_issues": 89,
             "owner": "NVIDIA",
             "repo": "semantic-segmentation",
-            "stars": 1833,
+            "stars": 1832,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -1020,6 +1020,48 @@
         },
         {
           "node_type": "item",
+          "title": "2015-NIPS - Learning with Symmetric Label Noise: The Importance of Being Unhinged. [Paper]",
+          "description": "[Loss-Code-Unofficial]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Robust loss functions for deep neural networks (CVPR 2017)",
+            "homepage": null,
+            "id": 86898257,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2020-06-11T13:25:32Z",
+            "open_issues": 2,
+            "owner": "giorgiop",
+            "repo": "loss-correction",
+            "stars": 94,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "2017-CVPR - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach. [Paper]",
+          "description": "giorgiop/loss-correction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Robust loss functions for deep neural networks (CVPR 2017)",
+            "homepage": null,
+            "id": 86898257,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2020-06-11T13:25:32Z",
+            "open_issues": 2,
+            "owner": "giorgiop",
+            "repo": "loss-correction",
+            "stars": 94,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
           "title": "2022-CVPR - Adaptive Early-Learning Correction for Segmentation from Noisy Annotations. [Paper]",
           "description": "Kangningthu/ADELE",
           "children": [],
@@ -1043,48 +1085,6 @@
               "segmentation",
               "weakly-supervised-segmentation"
             ]
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
-          "title": "2015-NIPS - Learning with Symmetric Label Noise: The Importance of Being Unhinged. [Paper]",
-          "description": "[Loss-Code-Unofficial]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Robust loss functions for deep neural networks (CVPR 2017)",
-            "homepage": null,
-            "id": 86898257,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2020-06-11T13:25:32Z",
-            "open_issues": 2,
-            "owner": "giorgiop",
-            "repo": "loss-correction",
-            "stars": 93,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
-          "title": "2017-CVPR - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach. [Paper]",
-          "description": "giorgiop/loss-correction",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Robust loss functions for deep neural networks (CVPR 2017)",
-            "homepage": null,
-            "id": 86898257,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2020-06-11T13:25:32Z",
-            "open_issues": 2,
-            "owner": "giorgiop",
-            "repo": "loss-correction",
-            "stars": 93,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:34:27.117Z",
+    "last_updated": "2026-10-20T01:20:02.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
