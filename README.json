@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T21:57:07Z",
-            "open_issues": 2009,
+            "last_commit": "2026-10-25T00:00:25Z",
+            "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39015,
+            "stars": 39019,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1276,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 30034,
+            "stars": 30045,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15244,
+            "stars": 15247,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -97,7 +97,7 @@
             "open_issues": 89,
             "owner": "NVIDIA",
             "repo": "semantic-segmentation",
-            "stars": 1832,
+            "stars": 1833,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -185,7 +185,7 @@
             "open_issues": 9,
             "owner": "LiJunnan1992",
             "repo": "DivideMix",
-            "stars": 577,
+            "stars": 576,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -971,7 +971,7 @@
             "open_issues": 1,
             "owner": "xiaoboxia",
             "repo": "T-Revision",
-            "stars": 98,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -1034,7 +1034,7 @@
             "open_issues": 2,
             "owner": "giorgiop",
             "repo": "loss-correction",
-            "stars": 94,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 2,
             "owner": "giorgiop",
             "repo": "loss-correction",
-            "stars": 94,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -1076,7 +1076,7 @@
             "open_issues": 5,
             "owner": "Kangningthu",
             "repo": "ADELE",
-            "stars": 94,
+            "stars": 93,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1936,27 +1936,6 @@
         },
         {
           "node_type": "item",
-          "title": "2015-TPAMI - Classification with noisy labels by importance reweighting. [Paper]",
-          "description": "xiaoboxia/Classification-with-noisy-labels-by-importance-reweighting",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "TPAMI: Classification with noisy labels by importance reweighting.",
-            "homepage": null,
-            "id": 212718455,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2019-10-04T16:23:34Z",
-            "open_issues": 1,
-            "owner": "xiaoboxia",
-            "repo": "Classification-with-noisy-labels-by-importance-reweighting",
-            "stars": 39,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
           "title": "2020-ICML - Improving Generalization by Controlling Label-Noise Information in Neural Network Weights. [Paper]",
           "description": "hrayrhar/limit-label-memorization",
           "children": [],
@@ -1978,6 +1957,27 @@
               "memorization",
               "neural-network"
             ]
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "2015-TPAMI - Classification with noisy labels by importance reweighting. [Paper]",
+          "description": "xiaoboxia/Classification-with-noisy-labels-by-importance-reweighting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TPAMI: Classification with noisy labels by importance reweighting.",
+            "homepage": null,
+            "id": 212718455,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2019-10-04T16:23:34Z",
+            "open_issues": 1,
+            "owner": "xiaoboxia",
+            "repo": "Classification-with-noisy-labels-by-importance-reweighting",
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:13:04.995Z",
+    "last_updated": "2026-10-25T00:38:18.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
@@ -4103,7 +4103,7 @@
       "open_issues": 3,
       "owner": "subeeshvasu",
       "repo": "Awesome-Learning-with-Label-Noise",
-      "stars": 2715,
+      "stars": 2714,
       "topics": [
         "deep-neural-networks",
         "label-noise",
