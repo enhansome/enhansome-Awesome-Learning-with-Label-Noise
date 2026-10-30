@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T13:44:13Z",
+            "last_commit": "2026-10-29T16:49:00Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39048,
+            "stars": 39059,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1276,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 30070,
+            "stars": 30084,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15255,
+            "stars": 15257,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -97,7 +97,7 @@
             "open_issues": 89,
             "owner": "NVIDIA",
             "repo": "semantic-segmentation",
-            "stars": 1833,
+            "stars": 1834,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -1403,7 +1403,7 @@
             "open_issues": 5,
             "owner": "moucheng2017",
             "repo": "Med-Noisy-Labels",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "noisy-labels",
               "segmentation"
@@ -3948,7 +3948,7 @@
             "open_issues": 5,
             "owner": "moucheng2017",
             "repo": "Med-Noisy-Labels",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "noisy-labels",
               "segmentation"
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:59:16.798Z",
+    "last_updated": "2026-10-30T02:13:53.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
