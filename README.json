@@ -19,7 +19,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39065,
+            "stars": 39076,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1276,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 30098,
+            "stars": 30101,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15260,
+            "stars": 15261,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -97,7 +97,7 @@
             "open_issues": 89,
             "owner": "NVIDIA",
             "repo": "semantic-segmentation",
-            "stars": 1834,
+            "stars": 1833,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -118,7 +118,7 @@
             "open_issues": 15,
             "owner": "facebookresearch",
             "repo": "mixup-cifar10",
-            "stars": 1194,
+            "stars": 1193,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:54:53.576Z",
+    "last_updated": "2026-11-01T01:35:59.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
