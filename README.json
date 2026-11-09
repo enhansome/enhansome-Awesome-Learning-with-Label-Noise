@@ -19,7 +19,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39128,
+            "stars": 39141,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1276,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 30165,
+            "stars": 30169,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15269,
+            "stars": 15270,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -905,7 +905,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2019-07-11T14:18:02Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "edufonseca",
             "repo": "icassp19",
             "stars": 99,
@@ -926,7 +926,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2019-07-11T14:18:02Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "edufonseca",
             "repo": "icassp19",
             "stars": 99,
@@ -947,7 +947,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2019-07-11T14:18:02Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "edufonseca",
             "repo": "icassp19",
             "stars": 99,
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:55:31.338Z",
+    "last_updated": "2026-11-09T02:10:13.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
@@ -4103,7 +4103,7 @@
       "open_issues": 3,
       "owner": "subeeshvasu",
       "repo": "Awesome-Learning-with-Label-Noise",
-      "stars": 2714,
+      "stars": 2715,
       "topics": [
         "deep-neural-networks",
         "label-noise",
