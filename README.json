@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T18:41:04Z",
+            "last_commit": "2026-11-09T18:10:16Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39141,
+            "stars": 39149,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1276,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 30169,
+            "stars": 30174,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15270,
+            "stars": 15268,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -875,7 +875,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2022-03-01T02:46:35Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "hendrycks",
             "repo": "pre-training",
             "stars": 100,
@@ -905,7 +905,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2019-07-11T14:18:02Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "edufonseca",
             "repo": "icassp19",
             "stars": 99,
@@ -926,7 +926,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2019-07-11T14:18:02Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "edufonseca",
             "repo": "icassp19",
             "stars": 99,
@@ -947,7 +947,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2019-07-11T14:18:02Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "edufonseca",
             "repo": "icassp19",
             "stars": 99,
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:10:13.418Z",
+    "last_updated": "2026-11-10T04:23:54.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",

@@ -22,11 +22,11 @@ A curated list of resources for Learning with Noisy Labels
 
 ## Papers & Code
 
-* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 39,141 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06
+* 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/ieg) ⭐ 39,149 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-09
 
-* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 30,169 | 🐛 1,276 | 🌐 Python | 📅 2026-10-19
+* 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf) [\[Code\]](https://github.com/deepinsight/insightface) ⭐ 30,174 | 🐛 1,276 | 🌐 Python | 📅 2026-10-19
 
-* 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,270 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+* 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [\[Paper\]](https://arxiv.org/pdf/2107.11413v4.pdf) [\[Project Page\]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label) ⭐ 15,268 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
 * 2019-CVPR - Improving Semantic Segmentation via Video Propagation and Label Relaxation. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.html) [\[Code\]](https://github.com/NVIDIA/semantic-segmentation) ⭐ 1,834 | 🐛 89 | 🌐 Python | 📅 2021-07-26
 
@@ -92,13 +92,13 @@ A curated list of resources for Learning with Noisy Labels
 
 * 2019-ICCV - NLNL: Negative Learning for Noisy Labels. [\[Paper\]](https://arxiv.org/abs/1908.07387) [\[Code\]](https://github.com/ydkim1293/NLNL-Negative-Learning-for-Noisy-Labels) ⭐ 104 | 🐛 6 | 🌐 Python | 📅 2019-11-14
 
-* 2019-ICML - Using Pre-Training Can Improve Model Robustness and Uncertainty. [\[Paper\]](https://arxiv.org/abs/1901.09960) [\[Code\]](https://github.com/hendrycks/pre-training) ⭐ 100 | 🐛 4 | 🌐 Python | 📅 2022-03-01
+* 2019-ICML - Using Pre-Training Can Improve Model Robustness and Uncertainty. [\[Paper\]](https://arxiv.org/abs/1901.09960) [\[Code\]](https://github.com/hendrycks/pre-training) ⭐ 100 | 🐛 3 | 🌐 Python | 📅 2022-03-01
 
-* 2015-CVPR - Training Deep Neural Networks on Noisy Labels with Bootstrapping. [\[Paper\]](https://arxiv.org/abs/1412.6596) [\[Loss-Code-Unofficial-1\]](https://github.com/edufonseca/icassp19/blob/master/losses.py) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2019-07-11 [\[Loss-Code-Unofficial-2\]](https://github.com/giorgiop/loss-correction/blob/master/loss.py) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2020-06-11 [\[Code-Keras\]](https://github.com/dr-darryl-wright/Noisy-Labels-with-Bootstrapping) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2021-01-28
+* 2015-CVPR - Training Deep Neural Networks on Noisy Labels with Bootstrapping. [\[Paper\]](https://arxiv.org/abs/1412.6596) [\[Loss-Code-Unofficial-1\]](https://github.com/edufonseca/icassp19/blob/master/losses.py) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2019-07-11 [\[Loss-Code-Unofficial-2\]](https://github.com/giorgiop/loss-correction/blob/master/loss.py) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2020-06-11 [\[Code-Keras\]](https://github.com/dr-darryl-wright/Noisy-Labels-with-Bootstrapping) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2021-01-28
 
-* 2018-NIPS - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [\[Paper\]](https://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels.pdf) [\[Loss-Code-Unofficial\]](https://github.com/edufonseca/icassp19/blob/master/losses.py) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2019-07-11
+* 2018-NIPS - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [\[Paper\]](https://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels.pdf) [\[Loss-Code-Unofficial\]](https://github.com/edufonseca/icassp19/blob/master/losses.py) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2019-07-11
 
-* 2019-ICASSP - Learning Sound Event Classifiers from Web Audio with Noisy Labels. [\[Paper\]](https://arxiv.org/abs/1901.01189) [\[Code\]](https://github.com/edufonseca/icassp19) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2019-07-11
+* 2019-ICASSP - Learning Sound Event Classifiers from Web Audio with Noisy Labels. [\[Paper\]](https://arxiv.org/abs/1901.01189) [\[Code\]](https://github.com/edufonseca/icassp19) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2019-07-11
 
 * 2019-NIPS - Are Anchor Points Really Indispensable in Label-Noise Learning?. [\[Paper\]](https://papers.nips.cc/paper/8908-are-anchor-points-really-indispensable-in-label-noise-learning.pdf) [\[Code\]](https://github.com/xiaoboxia/T-Revision) ⭐ 97 | 🐛 1 | 🌐 Python | 📅 2021-08-18
 
@@ -578,4 +578,4 @@ Some of the above contents are borrowed from [Noisy-Labels-Problem-Collection](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
