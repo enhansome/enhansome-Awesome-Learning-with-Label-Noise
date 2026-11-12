@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T18:10:16Z",
+            "last_commit": "2026-11-11T11:58:31Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39152,
+            "stars": 39159,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1276,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 30192,
+            "stars": 30204,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15269,
+            "stars": 15270,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -604,7 +604,7 @@
             "open_issues": 8,
             "owner": "huangyangyu",
             "repo": "NoiseFace",
-            "stars": 136,
+            "stars": 135,
             "topics": [
               "caffe",
               "cnn",
@@ -3053,27 +3053,6 @@
         },
         {
           "node_type": "item",
-          "title": "2016-ICDM - Learning deep networks from noisy labels with dropout regularization. [Paper]",
-          "description": "ijindal/Noisy_Dropout_regularization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 68552499,
-            "language": "Matlab",
-            "license": null,
-            "last_commit": "2018-09-17T15:06:52Z",
-            "open_issues": 3,
-            "owner": "ijindal",
-            "repo": "Noisy_Dropout_regularization",
-            "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
           "title": "2018-ECCV - Deep Bilevel Learning. [Paper]",
           "description": "sjenni/DeepBilevel",
           "children": [],
@@ -3141,6 +3120,27 @@
             "owner": "YU1ut",
             "repo": "Divergence-Optimization",
             "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "2016-ICDM - Learning deep networks from noisy labels with dropout regularization. [Paper]",
+          "description": "ijindal/Noisy_Dropout_regularization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 68552499,
+            "language": "Matlab",
+            "license": null,
+            "last_commit": "2018-09-17T15:06:52Z",
+            "open_issues": 3,
+            "owner": "ijindal",
+            "repo": "Noisy_Dropout_regularization",
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:20:10.612Z",
+    "last_updated": "2026-11-12T03:27:59.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
