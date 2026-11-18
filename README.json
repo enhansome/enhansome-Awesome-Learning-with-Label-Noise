@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T16:31:35Z",
+            "last_commit": "2026-11-17T17:57:37Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39199,
+            "stars": 39214,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1276,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 30242,
+            "stars": 30253,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 360,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15279,
+            "stars": 15281,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -617,6 +617,34 @@
         },
         {
           "node_type": "item",
+          "title": "2020-NIPS - Self-Adaptive Training: beyond Empirical Risk Minimization. [Paper]",
+          "description": "LayneH/self-adaptive-training",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[TPAMI2022 & NeurIPS2020] Official implementation of Self-Adaptive Training",
+            "homepage": null,
+            "id": 242276268,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2021-10-17T09:31:45Z",
+            "open_issues": 2,
+            "owner": "LayneH",
+            "repo": "self-adaptive-training",
+            "stars": 132,
+            "topics": [
+              "adversarial-robustness",
+              "computer-vision",
+              "generalization",
+              "label-noise",
+              "machine-learning",
+              "overfitting"
+            ]
+          },
+          "first_seen": "2026-08-28T06:24:47.190Z"
+        },
+        {
+          "node_type": "item",
           "title": "2020-CVPR - Combating noisy labels by agreement: A joint training method with co-regularization. [Paper]",
           "description": "hongxin001/JoCoR",
           "children": [],
@@ -633,34 +661,6 @@
             "repo": "JoCoR",
             "stars": 131,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:24:47.190Z"
-        },
-        {
-          "node_type": "item",
-          "title": "2020-NIPS - Self-Adaptive Training: beyond Empirical Risk Minimization. [Paper]",
-          "description": "LayneH/self-adaptive-training",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[TPAMI2022 & NeurIPS2020] Official implementation of Self-Adaptive Training",
-            "homepage": null,
-            "id": 242276268,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2021-10-17T09:31:45Z",
-            "open_issues": 2,
-            "owner": "LayneH",
-            "repo": "self-adaptive-training",
-            "stars": 131,
-            "topics": [
-              "adversarial-robustness",
-              "computer-vision",
-              "generalization",
-              "label-noise",
-              "machine-learning",
-              "overfitting"
-            ]
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
         },
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:50:23.325Z",
+    "last_updated": "2026-11-18T03:55:40.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
