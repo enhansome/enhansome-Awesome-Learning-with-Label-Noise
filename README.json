@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T15:52:19Z",
+            "last_commit": "2026-11-20T22:58:37Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39234,
+            "stars": 39245,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1276,
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 30268,
+            "stars": 30276,
             "topics": [
               "age-estimation",
               "arcface",
@@ -76,7 +76,7 @@
             "open_issues": 360,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15282,
+            "stars": 15285,
             "topics": []
           },
           "first_seen": "2026-08-28T06:24:47.190Z"
@@ -2801,7 +2801,7 @@
         {
           "node_type": "item",
           "title": "2020-CVPR - Training Noise-Robust Deep Neural Networks via Meta-Learning. [Paper]",
-          "description": "ZhenWang-PhD/Training-Noise-Robust-Deep-Neural-Networks-via-Meta-Learning",
+          "description": "WangZhen-Hebut/Training-Noise-Robust-Deep-Neural-Networks-via-Meta-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2812,7 +2812,7 @@
             "license": null,
             "last_commit": "2020-10-06T01:49:34Z",
             "open_issues": 0,
-            "owner": "ZhenWang-PhD",
+            "owner": "WangZhen-Hebut",
             "repo": "Training-Noise-Robust-Deep-Neural-Networks-via-Meta-Learning",
             "stars": 20,
             "topics": []
@@ -4091,7 +4091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:46:05.848Z",
+    "last_updated": "2026-11-21T03:36:47.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Learning with Noisy Labels",
